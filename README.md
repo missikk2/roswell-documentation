@@ -6,7 +6,7 @@ This is a base for brand documentation and consistency for the print and digital
 
 ## Topics Covered
 
-Brand
+[Brand](/brand/brand-overview.md)
 
 Brand Voice
 
