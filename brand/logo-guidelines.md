@@ -44,13 +44,13 @@ The logo (unless specified) needs to include "unleashing the healing power of ho
 
 Fonts used in our logo are generally not used elsewhere.
 
-{% common %}
-
-###Logo Fonts
-
 "Roswell Park" - Capitolium RegularRoman [ALL CAPS]
 "Comprehensive Cancer Center" - Bernina Sans Condensed Semibold, kerning at 90.
 "Unleashing the Healing Power of Hope" - CapitoliumNews 2-Semibold Italic
+
+{% common %}
+
+###Logo Fonts
 
 {% endmethod %}
 
