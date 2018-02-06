@@ -28,7 +28,7 @@ Images of some of our colors can go here.
 
 {% method %}
 
-##Typefaces
+##[Typefaces](/brand/typefaces.md)
 
 Proper typeface usage is important to keeping our brand feel in all our print and digital pieces.
 
@@ -40,7 +40,7 @@ Images of some letters.
 
 {% method %}
 
-##Imagery
+##[Imagery](/brand/imagery.md)
 
 Placement and types of imagery used also builds our brand.
 
