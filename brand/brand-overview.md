@@ -3,7 +3,6 @@
 ```
 
 ```markdown
-
 This is a sample of a page that contains some high-level styles such as fonts and colors.
 
 {% method %}
@@ -26,9 +25,6 @@ Heading fonts used in our print representation are Tungsten Semibold.
 
 Heading fonts used in both print and digital are Tungsten Semibold.
 {% endmethod %}
-
-
-
 ```
 
 
