@@ -10,7 +10,7 @@ Here's some pictures of the logo in use.
 
 Our logo has one layout, a horizontal layout.
 
-{% common %}
+\{% common %}
 
 ###Logo Specifications used universally
 
@@ -34,7 +34,7 @@ Something specific to print formats here.
 
 Fonts used in our logo are generally not used elsewhere.
 
-{% common %}
+\{% common %}
 
 ###Logo Fonts
 
