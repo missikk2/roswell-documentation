@@ -1,6 +1,6 @@
 #Brand Overview
 
-Brand consistency is important in representing who we are and what we do.
+Brand consistency is important in representing who we are, what we do, and how we do it.
 
 -----
 
@@ -8,7 +8,7 @@ Brand consistency is important in representing who we are and what we do.
 
 {% method %}
 
-How we use and place our logo.
+How we use and place our logo is vital to maintaining our brand identity.
 
 {% common %}
 
