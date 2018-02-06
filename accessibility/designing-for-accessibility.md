@@ -23,3 +23,13 @@ How we use and place our logo.
 Images of our logo can go here
 
 {% endmethod %}
+
+##Other Accessibility Considerations
+
+How we use and place our logo.
+
+{% common %}
+
+Images of our logo can go here
+
+{% endmethod %}
