@@ -3,11 +3,11 @@
 ## Overview
 
 * [Roswell Park Brand Documentation](README.md)
-* [Brand Colors](brand-colors.md)
 
 ## Brand
 
 * [Brand Overview](brand/brand-overview.md)
+* [Brand Colors](brand-colors.md)
 
 ## Styles
 
