@@ -6,10 +6,6 @@
 
 ## Brand
 
-* [Brand Overview](brand/brand-overview.md)
-* [Logo Usage & Guidelines](logo-usage-and-guidelines.md)
-* [Brand Colors](brand-colors.md)
-
 ## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
