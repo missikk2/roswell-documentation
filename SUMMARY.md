@@ -6,6 +6,7 @@
 
 ## Brand
 
+* Brand Overview
 * Logo Usage
 * Color Palette
 * Typefaces
