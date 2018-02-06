@@ -9,7 +9,7 @@
 * [Brand Overview](brand/brand-overview.md)
 * [Logo Guidelines](brand/logo-guidelines.md)
 * [Color Palette](brand/color-palette.md)
-* Typefaces
+* [Typefaces](brand/typefaces.md)
 * [Imagery](brand/imagery.md)
 
 ## Styles
@@ -24,6 +24,4 @@
 * [Titles & Form Labels](brand-voice/titles-and-form-labels.md)
 * [Brand Terminology](brand-voice/brand-terminology.md)
 * [Use of Punctuation](brand-voice/use-of-punctuation.md)
-
-
 
