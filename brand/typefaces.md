@@ -2,6 +2,8 @@
 
 Consistent use of typefaces is key in preserving our brand identity no matter where it is displayed.
 
+-----
+
 {% method %}
 
 ## Headings
@@ -34,6 +36,8 @@ Sizes: ???
 
 {% endmethod %}
 
+-----
+
 {% method %}
 
 ## Body Text
@@ -55,6 +59,8 @@ Typeface: ?
 Size: ?
 
 {% endmethod %}
+
+-----
 
 {% method %}
 
