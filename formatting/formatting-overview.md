@@ -4,7 +4,7 @@ Consistency in our content is important in conveying the personality of our bran
 
 {% method %}
 
-##[Copy Writing Guidelines](/brand-voice/copy-writing-guidelines.md)
+##File Formats
 
 How we write our content to provide clarity to viewers.
 
@@ -16,7 +16,7 @@ Images
 
 {% method %}
 
-##[Titles & Form Labels](/brand-voice/titles-and-form-labels.md)
+##Date & Time Formats
 
 Wording guidelines for headings, titles, and form titles.
 
@@ -28,7 +28,7 @@ Images
 
 {% method %}
 
-##[Brand Terminology](/brand-voice/brand-terminology.md)
+##Form Field Formats
 
 Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
 
@@ -40,7 +40,7 @@ Images
 
 {% method %}
 
-##[Use of Punctuation](/brand-voice/use-of-punctuation.md)
+##Other Formatting
 
 Use of special characters throughout our content such as &
 
