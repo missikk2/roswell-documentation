@@ -3,11 +3,11 @@
 ## Overview
 
 * [Roswell Park Brand Documentation](README.md)
-* [Logo Usage & Guidelines](logo-usage-and-guidelines.md)
 
 ## Brand
 
 * [Brand Overview](brand/brand-overview.md)
+* [Logo Usage & Guidelines](logo-usage-and-guidelines.md)
 * [Brand Colors](brand-colors.md)
 
 ## Styles
