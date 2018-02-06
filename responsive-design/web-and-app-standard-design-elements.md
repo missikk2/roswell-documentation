@@ -16,8 +16,6 @@ Images
 
 {% method %}
 
-{% method %}
-
 ##Date & Time Formats
 
 Wording guidelines for headings, titles, and form titles.
