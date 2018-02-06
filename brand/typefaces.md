@@ -1,10 +1,10 @@
-# Color Palette
+# Typefaces of the Roswell Park Brand
 
 We strive to use a limited color palette to ensure that our brand is as strong as possible.
 
 {% method %}
 
-## Main Color
+## Headings
 
 The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
 
@@ -26,7 +26,27 @@ PMS 2935
 
 {% method %}
 
-## Secondary Colors
+## Body
+
+Other supporting colors may be used in publications, but not to overwhelm our main color.
+
+{% sample lang="dig" %}
+
+### Supporting Colors Used in Digital Formats
+
+A short list of colors here with swatches.
+
+{% sample lang="print" %}
+
+### Use In Print Formats
+
+A short list of colors here with swatches.
+
+{% endmethod %}
+
+{% method %}
+
+## Accents
 
 Other supporting colors may be used in publications, but not to overwhelm our main color.
 
