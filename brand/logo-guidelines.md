@@ -14,6 +14,8 @@ Our logo has one layout, a horizontal layout.
 
 Please make sure to observe correct whitespace and margins around the logo when placing it in a page or a layout.
 
+![](/assets/Roswell Logo 2018_CMYK.png)
+
 {% sample lang="dig" %}
 
 ###Use in Digital Formats
