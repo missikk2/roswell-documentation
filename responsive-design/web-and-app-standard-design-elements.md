@@ -28,6 +28,10 @@ Buttons of different colors are used throughout the site with slight borders to 
 
 Images of buttons
 
+![](/assets/green-button.png)
+
+![](/assets/purple-button.png)
+
 {% endmethod %}
 
 -----
