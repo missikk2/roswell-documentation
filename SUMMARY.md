@@ -20,8 +20,15 @@
 * [Brand Terminology](brand-voice/brand-terminology.md)
 * [Use of Punctuation](brand-voice/use-of-punctuation.md)
 
+## Formatting
+
+* Date & Time Formats
+* Other Formatting
+
 ## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
+
+
 
