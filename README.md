@@ -10,9 +10,7 @@ This is a base for brand documentation and consistency for the print and digital
 
 [Brand Voice](/brand-voice/brand-voice-overview.md)
 
-Calls-to-action
-
-Formatting
+[Formatting](/formatting/formatting-overview.md)
 
 Responsive Design
 

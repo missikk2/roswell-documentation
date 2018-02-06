@@ -28,8 +28,17 @@
 * [Form Field Formats](formatting/form-field-formats.md)
 * [Other Formatting](formatting/other-formatting.md)
 
+## Responsive Design
+
+* Responsive Design Overview
+* Mobile-First Considerations
+* Web & App Grid
+* Web & App Standard Design Elements
+
 ## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
+
+
 
