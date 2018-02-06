@@ -8,7 +8,7 @@ This is a base for brand documentation and consistency for the print and digital
 
 [Brand](/brand/brand-overview.md)
 
-Brand Voice
+[Brand Voice](/brand-voice/brand-voice-overview.md)
 
 Calls-to-action
 
