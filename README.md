@@ -1,3 +1,4 @@
-# My Awesome API
+# Roswell Park Brand Documentation
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a base for brand documentation and consistency for the print and digital representation of the Roswell Park brand.
+
