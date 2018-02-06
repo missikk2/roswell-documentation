@@ -6,9 +6,9 @@ Here's some pictures of the logo in use.
 
 -----
 
-##Logo Layouts & Orientations
-
 {% method %}
+
+##Logo Layouts & Orientations
 
 Our logo has one layout, a horizontal layout.
 
@@ -36,9 +36,9 @@ The logo (unless specified) needs to include "unleashing the healing power of ho
 
 -----
 
-##Logo Fonts
-
 {% method %}
+
+##Logo Fonts
 
 Fonts used in our logo are generally not used elsewhere.
 
