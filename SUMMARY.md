@@ -37,12 +37,10 @@
 
 ## System Design
 
-* What is System Design
+* [What is System Design](system-design/what-is-system-design.md)
 
 ## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
-
-
 
