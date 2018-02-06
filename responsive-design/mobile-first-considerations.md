@@ -1,14 +1,14 @@
 #Mobile-First Design Considerations
 
-Consistency in our content is important in conveying the personality of our brand.
+As more and more traffic comes from mobile devices, it only makes sense to start our development process with mobile sizes.
 
 -----
 
 {% method %}
 
-##File Formats
+##Page Layout
 
-How we write our content to provide clarity to viewers.
+How we structure our pages to be mobile-friendly.
 
 {% common %}
 
@@ -20,23 +20,9 @@ Images
 
 {% method %}
 
-##Date & Time Formats
+##Columns
 
-Wording guidelines for headings, titles, and form titles.
-
-{% common %}
-
-Images
-
-{% endmethod %}
-
------
-
-{% method %}
-
-##Form Field Formats
-
-Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
+Minimum number of columns used in mobile views. Either full-width or half-and-half.
 
 {% common %}
 
@@ -48,9 +34,23 @@ Images
 
 {% method %}
 
-##Other Formatting
+##Buttons
 
-Use of special characters throughout our content such as &
+Making sure that buttons and clickable elements are large enough and emphasized enough on mobile.
+
+{% common %}
+
+Images
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+##Menus & Menu Locations
+
+Locations of menus and clickable items in mobile views.
 
 {% common %}
 
