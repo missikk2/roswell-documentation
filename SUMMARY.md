@@ -6,9 +6,10 @@
 
 ## Brand
 
-* [Brand Overview](brand-overview.md)
-* [Logo Guidelines](logo-guidelines.md)
-* [Color Palette](color-palette.md)
+* [Brand Overview](brand/brand-overview.md)
+* [Logo Guidelines](brand/logo-guidelines.md)
+* [Color Palette](brand/color-palette.md)
+* [Imagery](brand/imagery.md)
 
 ## Styles
 
