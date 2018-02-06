@@ -4,7 +4,7 @@ Brand consistency is important in representing who we are and what we do.
 
 {% method %}
 
-##[Logo Usage](/brand/logo-usage.md)
+##[Logo Usage](/brand/logo-guidelines.md)
 
 How we use and place our logo.
 
