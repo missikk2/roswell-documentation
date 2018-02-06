@@ -3,6 +3,7 @@
 ## Overview
 
 * [Roswell Park Brand Documentation](README.md)
+* [Color Palette](color-palette.md)
 
 ## Brand
 
