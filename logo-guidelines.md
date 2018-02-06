@@ -10,12 +10,6 @@ Here's some pictures of the logo in use.
 
 Our logo has one layout, a horizontal layout.
 
-\{% common %}
-
-###Logo Specifications used universally
-
-The logo (unless specified) needs to include "unleashing the healing power of hope" underneath it.
-
 {% sample lang="dig" %}
 
 ###Use in Digital Formats
@@ -28,13 +22,19 @@ Can leave off "unleashing the healing power of hope" if needed, i.e. nav bar on 
 
 Something specific to print formats here.
 
+{% common %}
+
+###Logo Specifications used universally
+
+The logo (unless specified) needs to include "unleashing the healing power of hope" underneath it.
+
 {% endmethod %}
 
 ##Logo Fonts
 
 Fonts used in our logo are generally not used elsewhere.
 
-\{% common %}
+{% sample %}
 
 ###Logo Fonts
 
