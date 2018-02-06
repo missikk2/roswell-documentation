@@ -1,32 +1,26 @@
-# Defining Styles in Digital and Print
+# Sample Style One
 
-We can use the same page to toggle styles that are used in digital and print. Toggle in the top right corner to see the difference.
+This is a sample of a page that contains some high-level styles such as fonts and colors.
 
 {% method %}
-## My first style
+## Fonts
 
-My first method exposes how to print a message in digital and print.
+Fonts used in this brand are as follows:
 
 {% sample lang="dig" %}
-Here is how to print a message to `stdout` in digital.
+### Heading Fonts Used in Digital
 
-```js
-console.log('My first method');
-```
+Heading fonts used in our digital representation tend to be Open Sans. Sometimes Tungsten Semibold is used in ads.
 
 {% sample lang="print" %}
-Here is how to print a message to `stdout` in print.
+### Heading Fonts Used in Print
 
-```go
-fmt.Println("My first method")
-```
+Heading fonts used in our print representation are Tungsten Semibold.
 
 {% common %}
-We can also display content or styles that are common between the two.
+### Heading Fonts Used Universally
 
-```bash
-$ My first method
-```
+Heading fonts used in both print and digital are Tungsten Semibold.
 {% endmethod %}
 
 
