@@ -12,7 +12,7 @@ This is a base for brand documentation and consistency for the print and digital
 
 [Formatting](/formatting/formatting-overview.md)
 
-Responsive Design
+[Responsive Design](/responsive-design/responsive-design-overview.md)
 
 System Design
 
