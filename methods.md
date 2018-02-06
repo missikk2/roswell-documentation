@@ -1,6 +1,6 @@
 # Defining Styles in Digital and Print
 
-We can use the same page to toggle styles that are used in digital and print.
+We can use the same page to toggle styles that are used in digital and print. Toggle in the top right corner to see the difference.
 
 {% method %}
 ## My first style
