@@ -17,3 +17,12 @@
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
 
+## Brand Voice
+
+* Copy Writing Guidelines
+* Titles & Form Labels
+* Brand Terminology
+* Use of Punctuation
+
+
+
