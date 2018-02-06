@@ -36,7 +36,15 @@ Other supporting colors may be used in publications, but not to overwhelm our ma
 
 ### Supporting Colors Used in Digital Formats
 
-A short list of colors here with swatches.
+#### Colors Used on the .org Site
+
+Green: \#8CC63F
+
+Light Blue: \#BDD3ED
+
+Lavender: \#B283BA
+
+Orange: \#DBB266
 
 {% sample lang="print" %}
 
