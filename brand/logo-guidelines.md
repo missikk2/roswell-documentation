@@ -10,6 +10,8 @@ Here's some pictures of the logo in use.
 
 Our logo has one layout, a horizontal layout.
 
+Please make sure to observe correct whitespace and margins around the logo when placing it in a page or a layout.
+
 {% sample lang="dig" %}
 
 ###Use in Digital Formats
