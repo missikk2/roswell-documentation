@@ -1,50 +1,43 @@
-# Logo Usage
+# Color Palette
 
-Something something something, logo usage and stuff.
-
-Here's some pictures of the logo in use.
+We strive to use a limited color palette to ensure that our brand is as strong as possible.
 
 {% method %}
 
-## Logo Layouts & Orientations
+## Main Color
 
-Our logo has one layout, a horizontal layout.
-
-{% common %}
-
-### Logo Specifications used universally
-
-The logo (unless specified) needs to include "unleashing the healing power of hope" underneath it.
+The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
 
 {% sample lang="dig" %}
 
 ### Use in Digital Formats
 
-Can leave off "unleashing the healing power of hope" if needed, i.e. nav bar on website.
+\#0055B8
+**R** 0 **G** 93 **B** 166
 
 {% sample lang="print" %}
 
 ### Use In Print Formats
 
-Something specific to print formats here.
+PMS 2935
+**C** 100 **M** 68 **Y** 4 **K** 0
 
 {% endmethod %}
 
-## Logo Fonts
+## Secondary Colors
 
-Our logo has one layout, a horizontal layout.
+Other supporting colors may be used in publications, but not to overwhelm our main color.
 
-{% common %}
+{% sample lang="dig" %}
 
-### Logo Fonts
+### Supporting Colors Used in Digital Formats
 
-"Roswell Park" - Capitolium RegularRoman [ALL CAPS]
+A short list of colors here with swatches.
 
-"Comprehensive Cancer Center" - Bernina Sans Condensed Semibold, kerning at 90.
+{% sample lang="print" %}
 
-"Unleashing the Healing Power of Hope" - CapitoliumNews 2-Semibold Italic
+### Use In Print Formats
+
+A short list of colors here with swatches.
 
 {% endmethod %}
-
-
-
