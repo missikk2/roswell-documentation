@@ -18,14 +18,14 @@ Link to SmugMug: https://rpcicreative.smugmug.com/
 
 {% method %}
 
-## Secondary Imagery
+## Image Treatments
 
-Other supporting images may be used.
+A compilation of how images are treated and used. A list of common ways we have used images in graphics, ie that gradient border for Just One Day, overlays and cut-outs, etc.
 
 {% common %}
 
-### Other Useful Imagery Locations
+### Some Examples
 
-A short list of free vector sites?
+Examples and the names of publications and pages they are used on.
 
 {% endmethod %}
