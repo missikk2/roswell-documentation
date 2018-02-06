@@ -30,6 +30,8 @@ Buttons of different colors are used throughout the site with slight borders to 
 
 ![](/assets/green-button.png)
 
+![](/assets/blue-button.png)
+
 ![](/assets/purple-button.png)
 
 {% endmethod %}
