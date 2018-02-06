@@ -2,6 +2,8 @@
 
 We strive to use a limited color palette to ensure that our brand is as strong as possible.
 
+-----
+
 {% method %}
 
 ## Standard Formatting

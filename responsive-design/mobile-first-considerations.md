@@ -2,6 +2,8 @@
 
 Consistency in our content is important in conveying the personality of our brand.
 
+-----
+
 {% method %}
 
 ##File Formats
@@ -13,6 +15,8 @@ How we write our content to provide clarity to viewers.
 Images
 
 {% endmethod %}
+
+-----
 
 {% method %}
 
@@ -26,6 +30,8 @@ Images
 
 {% endmethod %}
 
+-----
+
 {% method %}
 
 ##Form Field Formats
@@ -37,6 +43,8 @@ Common terms and phrases used throughout our content, as well as terms and phras
 Images
 
 {% endmethod %}
+
+-----
 
 {% method %}
 

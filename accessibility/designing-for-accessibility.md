@@ -2,6 +2,8 @@
 
 What ways do we design for accessibility within our brand?
 
+-----
+
 {% method %}
 
 ##Color Usage
@@ -14,6 +16,8 @@ Images of our logo can go here
 
 {% endmethod %}
 
+-----
+
 {% method %}
 
 ##Font Size
@@ -25,6 +29,8 @@ How we use and place our logo.
 Images of our logo can go here
 
 {% endmethod %}
+
+-----
 
 {% method %}
 

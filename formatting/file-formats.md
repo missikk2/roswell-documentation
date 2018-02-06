@@ -2,6 +2,8 @@
 
 We strive to use a limited color palette to ensure that our brand is as strong as possible.
 
+-----
+
 {% method %}
 
 ## Images
@@ -23,6 +25,8 @@ PMS 2935
 **C** 100 **M** 68 **Y** 4 **K** 0
 
 {% endmethod %}
+
+-----
 
 {% method %}
 

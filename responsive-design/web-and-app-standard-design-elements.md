@@ -2,6 +2,8 @@
 
 Consistency in our content is important in conveying the personality of our brand.
 
+-----
+
 {% method %}
 
 ##Cards
@@ -13,6 +15,8 @@ Consistency in our content is important in conveying the personality of our bran
 Images of cards
 
 {% endmethod %}
+
+-----
 
 {% method %}
 
@@ -26,6 +30,8 @@ Images of buttons
 
 {% endmethod %}
 
+-----
+
 {% method %}
 
 ##Dashboards
@@ -37,6 +43,8 @@ Common design styles in dashboards and i2
 Images of dashboard elements
 
 {% endmethod %}
+
+-----
 
 {% method %}
 
