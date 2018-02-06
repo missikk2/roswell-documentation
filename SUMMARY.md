@@ -7,7 +7,5 @@
 ## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
-* Sample Style One
-
-
+* [Sample Style One](sample-style-one.md)
 
