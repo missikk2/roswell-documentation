@@ -32,7 +32,7 @@ Something specific to print formats here.
 
 ## Logo Fonts
 
-Our logo has one layout, a horizontal layout.
+Fonts used in our logo are generally not used elsewhere.
 
 {% common %}
 
