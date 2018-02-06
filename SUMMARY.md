@@ -4,7 +4,7 @@
 
 * [Roswell Park Brand Documentation](README.md)
 
-## Methods
+## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
 
