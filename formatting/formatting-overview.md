@@ -4,7 +4,7 @@ Consistency in our content is important in conveying the personality of our bran
 
 {% method %}
 
-##File Formats
+##[File Formats](/formatting/file-formats.md)
 
 How we write our content to provide clarity to viewers.
 
@@ -16,7 +16,7 @@ Images
 
 {% method %}
 
-##Date & Time Formats
+##[Date & Time Formats](/formatting/date-and-time-formats.md)
 
 Wording guidelines for headings, titles, and form titles.
 
@@ -28,7 +28,7 @@ Images
 
 {% method %}
 
-##Form Field Formats
+##[Form Field Formats](/formatting/form-field-formats.md)
 
 Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
 
@@ -40,7 +40,7 @@ Images
 
 {% method %}
 
-##Other Formatting
+##[Other Formatting](/formatting/other-formatting.md)
 
 Use of special characters throughout our content such as &
 
