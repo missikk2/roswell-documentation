@@ -15,9 +15,9 @@ Typeface: Open Sans
 
 H1: 42px
 
-H2: 36px
+H2: 34px
 
-H3: ?px
+H3: 28px
 
 H4: ?px
 

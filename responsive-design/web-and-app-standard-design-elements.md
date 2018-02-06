@@ -4,45 +4,45 @@ Consistency in our content is important in conveying the personality of our bran
 
 {% method %}
 
-##File Formats
+##Cards
 
-How we write our content to provide clarity to viewers.
+"Cards" are used to display elements on pages. Most times they have colored borders on their tops or bottoms.
 
 {% common %}
 
-Images
+Images of cards
 
 {% endmethod %}
 
 {% method %}
 
-##Date & Time Formats
+##Buttons
 
-Wording guidelines for headings, titles, and form titles.
+Buttons of different colors are used throughout the site with slight borders to further distinguish them from the site background. All buttons have a 5px rounded corner.
 
 {% common %}
 
-Images
+Images of buttons
 
 {% endmethod %}
 
 {% method %}
 
-##Form Field Formats
+##Dashboards
 
-Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
+Common design styles in dashboards and i2
 
 {% common %}
 
-Images
+Images of dashboard elements
 
 {% endmethod %}
 
 {% method %}
 
-##Other Formatting
+##Icons
 
-Use of special characters throughout our content such as &
+Use of icons and glyphs throughout sites and content
 
 {% common %}
 
