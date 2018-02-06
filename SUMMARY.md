@@ -6,5 +6,5 @@
 
 ## Methods
 
-* [Defining Methods](methods.md)
+* [Defining Styles in Digital and Print](methods.md)
 
