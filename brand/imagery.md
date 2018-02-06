@@ -2,6 +2,8 @@
 
 Something about imagery goes here.
 
+-----
+
 {% method %}
 
 ## Main Imagery
@@ -15,6 +17,8 @@ Mainly use photographs of the campus blah blah blah.
 Link to SmugMug: https://rpcicreative.smugmug.com/
 
 {% endmethod %}
+
+-----
 
 {% method %}
 
