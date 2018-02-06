@@ -1,45 +1,31 @@
 # Brand Imagery
 
-We strive to use a limited color palette to ensure that our brand is as strong as possible.
+Something about imagery goes here.
 
 {% method %}
 
 ## Main Imagery
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Mainly use photographs of the campus blah blah blah.
 
-{% sample lang="dig" %}
+{% common %}
 
-### Use in Digital Formats
+### Where to Access Imagery
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
-
-{% sample lang="print" %}
-
-### Use In Print Formats
-
-PMS 2935
-**C** 100 **M** 68 **Y** 4 **K** 0
+Link to SmugMug: https://rpcicreative.smugmug.com/
 
 {% endmethod %}
 
 {% method %}
 
-## Secondary Colors
+## Secondary Imagery
 
-Other supporting colors may be used in publications, but not to overwhelm our main color.
+Other supporting images may be used.
 
-{% sample lang="dig" %}
+{% common %}
 
-### Supporting Colors Used in Digital Formats
+### Other Useful Imagery Locations
 
-A short list of colors here with swatches.
-
-{% sample lang="print" %}
-
-### Use In Print Formats
-
-A short list of colors here with swatches.
+A short list of free vector sites?
 
 {% endmethod %}
