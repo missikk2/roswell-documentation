@@ -30,7 +30,7 @@ PMS 2935
 
 {% method %}
 
-## Website
+## Compressing Images for Web
 
 Other supporting colors may be used in publications, but not to overwhelm our main color.
 
