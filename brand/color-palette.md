@@ -2,9 +2,11 @@
 
 We strive to use a limited color palette to ensure that our brand is as strong as possible.
 
-{% method %}
+-----
 
 ## Main Color
+
+{% method %}
 
 The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
 
@@ -26,9 +28,11 @@ PMS 2935
 
 {% endmethod %}
 
-{% method %}
+-----
 
 ## Secondary Colors
+
+{% method %}
 
 Other supporting colors may be used in publications, but not to overwhelm our main color.
 
