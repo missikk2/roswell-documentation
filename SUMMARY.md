@@ -22,7 +22,7 @@
 
 ## Formatting
 
-* Formatting Overview
+* [Formatting Overview](formatting/formatting-overview.md)
 * [Date & Time Formats](formatting/date-and-time-formats.md)
 * [Form Field Formats](formatting/form-field-formats.md)
 * [Other Formatting](formatting/other-formatting.md)
@@ -31,6 +31,4 @@
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
-
-
 
