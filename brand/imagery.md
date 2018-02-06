@@ -1,10 +1,10 @@
-# Color Palette
+# Brand Imagery
 
 We strive to use a limited color palette to ensure that our brand is as strong as possible.
 
 {% method %}
 
-## Main Color
+## Main Imagery
 
 The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
 
