@@ -34,7 +34,7 @@ The logo (unless specified) needs to include "unleashing the healing power of ho
 
 Fonts used in our logo are generally not used elsewhere.
 
-{% sample %}
+{% common %}
 
 ###Logo Fonts
 
