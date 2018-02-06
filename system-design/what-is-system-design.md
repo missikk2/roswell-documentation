@@ -1,72 +1,15 @@
-{% method %}
+#What is System Design?
 
-
-
-\#\#Date & Time Formats
-
-
-
-Wording guidelines for headings, titles, and form titles.
-
-
-
-{% common %}
-
-
-
-Images
-
-
-
-{% endmethod %}
-
-
+Brand consistency is important in representing who we are and what we do.
 
 {% method %}
 
+##[Logo Usage](/brand/logo-guidelines.md)
 
-
-\#\#Form Field Formats
-
-
-
-Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
-
-
+How we use and place our logo.
 
 {% common %}
 
-
-
-Images
-
-
+Images of our logo can go here
 
 {% endmethod %}
-
-
-
-{% method %}
-
-
-
-\#\#Other Formatting
-
-
-
-Use of special characters throughout our content such as &
-
-
-
-{% common %}
-
-
-
-Images
-
-
-
-{% endmethod %}
-
-
-
