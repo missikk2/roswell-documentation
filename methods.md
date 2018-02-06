@@ -2,7 +2,7 @@
 
 We can use the same page to toggle styles that are used in digital and print. Toggle in the top right corner to see the difference.
 
-{% method2 %}
+{% method %}
 ## My first style
 
 My first method exposes how to print a message in digital and print.
@@ -27,4 +27,4 @@ We can also display content or styles that are common between the two.
 ```bash
 $ My first method
 ```
-{% endmethod2 %}
+{% endmethod %}
