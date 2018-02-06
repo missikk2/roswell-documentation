@@ -4,9 +4,11 @@ Something something something, logo usage and stuff.
 
 Here's some pictures of the logo in use.
 
-{% method %}
+-----
 
 ##Logo Layouts & Orientations
+
+{% method %}
 
 Our logo has one layout, a horizontal layout.
 
@@ -32,9 +34,11 @@ The logo (unless specified) needs to include "unleashing the healing power of ho
 
 {% endmethod %}
 
-{% method %}
+-----
 
 ##Logo Fonts
+
+{% method %}
 
 Fonts used in our logo are generally not used elsewhere.
 
