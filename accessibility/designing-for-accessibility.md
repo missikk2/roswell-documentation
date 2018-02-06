@@ -14,6 +14,8 @@ Images of our logo can go here
 
 {% endmethod %}
 
+{% method %}
+
 ##Font Size
 
 How we use and place our logo.
@@ -23,6 +25,8 @@ How we use and place our logo.
 Images of our logo can go here
 
 {% endmethod %}
+
+{% method %}
 
 ##Other Accessibility Considerations
 
