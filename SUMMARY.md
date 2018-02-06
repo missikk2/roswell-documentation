@@ -41,12 +41,10 @@
 
 ## Accessibility
 
-* Designing for Accessibility
+* [Designing for Accessibility](accessibility/designing-for-accessibility.md)
 
 ## Styles
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
-
-
 
