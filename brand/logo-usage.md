@@ -6,35 +6,40 @@ Here's some pictures of the logo in use.
 
 {% method %}
 
-## Fonts
+## Logo Layouts & Orientations
 
-Fonts used in this brand are as follows:
-
-{% sample lang="dig" %}
-
-### Heading Fonts Used in Digital
-
-Heading fonts used in our digital representation tend to be Open Sans. Sometimes Tungsten Semibold is used in ads.
-
-{% sample lang="print" %}
-
-### Heading Fonts Used in Print
-
-Heading fonts used in our print representation are Tungsten Semibold.
+Our logo has one layout, a horizontal layout.
 
 {% common %}
 
-### Heading Fonts Used Universally
+### Logo Specifications used universally
 
-Heading fonts used in both print and digital are Tungsten Semibold.
+The logo (unless specified) needs to include "unleashing the healing power of hope" underneath it.
+
+{% sample lang="dig" %}
+
+### Use in Digital Formats
+
+Can leave off "unleashing the healing power of hope" if needed, i.e. nav bar on website.
+
+{% sample lang="print" %}
+
+### Use In Print Formats
+
+Something specific to print formats here.
 
 {% endmethod %}
 
+## Logo Fonts
 
+Our logo has one layout, a horizontal layout.
 
+{% common %}
 
+### Logo Fonts
 
+"Roswell Park" - Capitolium RegularRoman [ALL CAPS]
+"Comprehensive Cancer Center" - Bernina Sans Condensed Semibold, kerning at 90.
+"Unleashing the Healing Power of Hope" - CapitoliumNews 2-Semibold Italic
 
-
-
-
+{% endmethod %}
