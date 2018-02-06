@@ -22,10 +22,16 @@ Link to SmugMug: https://rpcicreative.smugmug.com/
 
 A compilation of how images are treated and used. A list of common ways we have used images in graphics, ie that gradient border for Just One Day, overlays and cut-outs, etc.
 
-{% common %}
+{% sample lang="dig" %}
 
 ### Some Examples
 
-Examples and the names of publications and pages they are used on.
+Examples and the names of pages they are used on.
+
+{% sample lang="print" %}
+
+### Some Examples
+
+Examples and the names of publications they are used on.
 
 {% endmethod %}
