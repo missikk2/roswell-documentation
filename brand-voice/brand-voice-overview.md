@@ -1,4 +1,4 @@
-#Brand Overview
+#Brand Voice Overview
 
 Brand consistency is important in representing who we are and what we do.
 
