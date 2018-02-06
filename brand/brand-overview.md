@@ -16,6 +16,8 @@ Images of our logo can go here
 
 {% method %}
 
+-----
+
 ##[Color Palette](/brand/color-palette.md)
 
 Color consistency is key to proper branding.
@@ -28,6 +30,8 @@ Images of some of our colors can go here.
 
 {% method %}
 
+-----
+
 ##[Typefaces](/brand/typefaces.md)
 
 Proper typeface usage is important to keeping our brand feel in all our print and digital pieces.
@@ -39,6 +43,8 @@ Images of some letters.
 {% endmethod %}
 
 {% method %}
+
+-----
 
 ##[Imagery](/brand/imagery.md)
 
