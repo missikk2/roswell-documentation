@@ -8,9 +8,9 @@
 
 * [Brand Overview](brand/brand-overview.md)
 * [Logo Usage](brand/logo-usage.md)
-* Color Palette
-* Typefaces
-* Imagery
+* [Color Palette](brand/color-palette.md)
+* [Typefaces](brand/typefaces.md)
+* [Imagery](brand/imagery.md)
 
 ## Styles
 
