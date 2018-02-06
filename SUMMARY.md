@@ -7,7 +7,7 @@
 ## Brand
 
 * [Brand Overview](brand/brand-overview.md)
-* Logo Usage
+* [Logo Usage](brand/logo-usage.md)
 * Color Palette
 * Typefaces
 * Imagery

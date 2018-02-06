@@ -1,9 +1,9 @@
 ```markdown
 # Sample Style One
+This is a sample of a page that contains some high-level styles such as fonts and colors.
 ```
 
 ```markdown
-This is a sample of a page that contains some high-level styles such as fonts and colors.
 
 {% method %}
 ## Fonts
