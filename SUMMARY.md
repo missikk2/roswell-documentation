@@ -12,11 +12,6 @@
 * [Typefaces](brand/typefaces.md)
 * [Imagery](brand/imagery.md)
 
-## Styles
-
-* [Defining Styles in Digital and Print](methods.md)
-* [Sample Style One](sample-style-one.md)
-
 ## Brand Voice
 
 * [Brand Voice Overview](brand-voice/brand-voice-overview.md)
@@ -24,4 +19,9 @@
 * [Titles & Form Labels](brand-voice/titles-and-form-labels.md)
 * [Brand Terminology](brand-voice/brand-terminology.md)
 * [Use of Punctuation](brand-voice/use-of-punctuation.md)
+
+## Styles
+
+* [Defining Styles in Digital and Print](methods.md)
+* [Sample Style One](sample-style-one.md)
 
