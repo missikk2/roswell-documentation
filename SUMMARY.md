@@ -6,7 +6,7 @@
 
 ## Brand
 
-* Brand Overview
+* [Brand Overview](brand/brand-overview.md)
 * Logo Usage
 * Color Palette
 * Typefaces
@@ -16,6 +16,4 @@
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
-
-
 
