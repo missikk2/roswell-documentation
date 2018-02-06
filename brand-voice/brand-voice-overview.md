@@ -1,48 +1,48 @@
 #Brand Voice Overview
 
-Brand consistency is important in representing who we are and what we do.
+Consistency in our content is important in conveying the personality of our brand.
 
 {% method %}
 
-##[Logo Usage](/brand/logo-guidelines.md)
+##[Copy Writing Guidelines](/brand-voice/copy-writing-guidelines.md)
 
-How we use and place our logo.
+How we write our content to provide clarity to viewers.
 
 {% common %}
 
-Images of our logo can go here
+Images
 
 {% endmethod %}
 
 {% method %}
 
-##[Color Palette](/brand/color-palette.md)
+##[Titles & Form Labels](/brand-voice/titles-and-form-labels.md)
 
-Color consistency is key to proper branding.
+Wording guidelines for headings, titles, and form titles.
 
 {% common %}
 
-Images of some of our colors can go here.
+Images
 
 {% endmethod %}
 
 {% method %}
 
-##Typefaces
+##[Brand Terminology](/brand-voice/brand-terminology.md)
 
-Proper typeface usage is important to keeping our brand feel in all our print and digital pieces.
+Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
 
 {% common %}
 
-Images of some letters.
+Images
 
 {% endmethod %}
 
 {% method %}
 
-##Imagery
+##[Use of Punctuation](/brand-voice/use-of-punctuation.md)
 
-Placement and types of imagery used also builds our brand.
+Use of special characters throughout our content such as &
 
 {% common %}
 
