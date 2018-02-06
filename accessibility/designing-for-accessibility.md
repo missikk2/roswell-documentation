@@ -1,10 +1,20 @@
 #Designing for Accessibility Within Our Brand
 
-Brand consistency is important in representing who we are and what we do.
+What ways do we design for accessibility within our brand?
 
 {% method %}
 
-##[Logo Usage](/brand/logo-guidelines.md)
+##Color Usage
+
+How we use and place our logo.
+
+{% common %}
+
+Images of our logo can go here
+
+{% endmethod %}
+
+##Font Size
 
 How we use and place our logo.
 
