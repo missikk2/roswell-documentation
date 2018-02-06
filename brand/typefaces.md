@@ -1,65 +1,77 @@
 # Typefaces of the Roswell Park Brand
 
-We strive to use a limited color palette to ensure that our brand is as strong as possible.
+Consistent use of typefaces is key in preserving our brand identity no matter where it is displayed.
 
 {% method %}
 
 ## Headings
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Our main heading fonts display a bold, yet approachable feel.
 
 {% sample lang="dig" %}
 
-### Use in Digital Formats
+### Digital Sizes & Weights
+Typeface: Open Sans
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+H1: 42px
+
+H2: 36px
+
+H3: ?px
+
+H4: ?px
+
+H5: ?px
+
+H6: ?px
 
 {% sample lang="print" %}
 
-### Use In Print Formats
+### Print Sizes & Weights
+Typeface: Tungsten Semibold
 
-PMS 2935
-**C** 100 **M** 68 **Y** 4 **K** 0
+Sizes: ???
 
 {% endmethod %}
 
 {% method %}
 
-## Body
+## Body Text
 
-Other supporting colors may be used in publications, but not to overwhelm our main color.
+Body text should be appropriately sized and colored for the ease of reading for all.
 
 {% sample lang="dig" %}
 
-### Supporting Colors Used in Digital Formats
+### Digital Sizes & Weights
+Typeface: Open Sans
 
-A short list of colors here with swatches.
+Size: 16px
 
 {% sample lang="print" %}
 
-### Use In Print Formats
+### Print Sizes & Weights
+Typeface: ?
 
-A short list of colors here with swatches.
+Size: ?
 
 {% endmethod %}
 
 {% method %}
 
-## Accents
+## Accent/Display Typefaces
 
-Other supporting colors may be used in publications, but not to overwhelm our main color.
+Other supporting typefaces may be used in publications as accents for various events and announcements.
 
 {% sample lang="dig" %}
 
-### Supporting Colors Used in Digital Formats
+### Display Typefaces Used in Digital Formats
 
-A short list of colors here with swatches.
+Typeface  |  Where Used
 
 {% sample lang="print" %}
 
-### Use In Print Formats
+### Display Typefaces Used In Print Formats
 
-A short list of colors here with swatches.
+Typeface  |  Where Used
 
 {% endmethod %}
