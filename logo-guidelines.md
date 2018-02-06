@@ -30,6 +30,8 @@ The logo (unless specified) needs to include "unleashing the healing power of ho
 
 {% endmethod %}
 
+{% method %}
+
 ##Logo Fonts
 
 Fonts used in our logo are generally not used elsewhere.
