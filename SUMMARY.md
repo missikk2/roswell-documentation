@@ -23,6 +23,7 @@
 ## Formatting
 
 * Date & Time Formats
+* Form Field Formats
 * Other Formatting
 
 ## Styles
