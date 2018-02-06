@@ -8,11 +8,11 @@ Consistency in our content is important in conveying the personality of our bran
 
 ##Cards
 
-"Cards" are used to display elements on pages. Most times they have colored borders on their tops or bottoms.
+"Cards" are used to display elements on pages. Most times they have colored borders on one of their edges.
 
 {% common %}
 
-Images of cards
+![](/assets/sidebar-card.png)
 
 {% endmethod %}
 
