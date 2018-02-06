@@ -4,7 +4,6 @@ This is a sample of a page that contains some high-level styles such as fonts an
 ```
 
 ```markdown
-
 {% method %}
 ## Fonts
 
