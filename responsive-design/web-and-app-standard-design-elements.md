@@ -10,6 +10,8 @@ Consistency in our content is important in conveying the personality of our bran
 
 "Cards" are used to display elements on pages. Most times they have colored borders on one of their edges.
 
+Cards may contain headings, body text, buttons, and images.
+
 {% common %}
 
 ![](/assets/sidebar-card.png)
@@ -25,8 +27,6 @@ Consistency in our content is important in conveying the personality of our bran
 Buttons of different colors are used throughout the site with slight borders to further distinguish them from the site background. All buttons have a 5px rounded corner.
 
 {% common %}
-
-Images of buttons
 
 ![](/assets/green-button.png)
 
