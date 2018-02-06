@@ -22,9 +22,10 @@
 
 ## Formatting
 
-* Date & Time Formats
-* Form Field Formats
-* Other Formatting
+* Formatting Overview
+* [Date & Time Formats](formatting/date-and-time-formats.md)
+* [Form Field Formats](formatting/form-field-formats.md)
+* [Other Formatting](formatting/other-formatting.md)
 
 ## Styles
 
