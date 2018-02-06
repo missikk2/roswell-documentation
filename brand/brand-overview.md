@@ -1,32 +1,51 @@
-#Sample Style One
+#Brand Overview
 
-This is a sample of a page that contains some high-level styles such as fonts and colors.
+Brand consistency is important in representing who we are and what we do.
 
 {% method %}
 
-##Fonts
+##Logo Usage
 
-Fonts used in this brand are as follows:
-
-{% sample lang="dig" %}
-
-###Heading Fonts Used in Digital
-
-Heading fonts used in our digital representation tend to be Open Sans. Sometimes Tungsten Semibold is used in ads.
-
-{% sample lang="print" %}
-
-###Heading Fonts Used in Print
-
-Heading fonts used in our print representation are Tungsten Semibold.
+How we use and place our logo.
 
 {% common %}
 
-###Heading Fonts Used Universally
-
-Heading fonts used in both print and digital are Tungsten Semibold.
+Images of our logo can go here
 
 {% endmethod %}
 
+{% method %}
 
+##Color Palette
 
+Color consistency is key to proper branding.
+
+{% common %}
+
+Images of some of our colors can go here.
+
+{% endmethod %}
+
+{% method %}
+
+##Typefaces
+
+Proper typeface usage is important to keeping our brand feel in all our print and digital pieces.
+
+{% common %}
+
+Images of some letters.
+
+{% endmethod %}
+
+{% method %}
+
+##Imagery
+
+Placement and types of imagery used also builds our brand.
+
+{% common %}
+
+Images
+
+{% endmethod %}
