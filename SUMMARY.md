@@ -7,6 +7,7 @@
 ## Brand
 
 * [Brand Overview](brand/brand-overview.md)
+* [Color Palette](color-palette.md)
 
 ## Styles
 
