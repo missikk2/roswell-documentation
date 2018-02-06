@@ -36,10 +36,10 @@ Images
 
 {% method %}
 
-Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
+Common design building blocks used throughout the site and apps.
 
 {% common %}
 
-Images
+![](/assets/sidebar-card.png)
 
 {% endmethod %}

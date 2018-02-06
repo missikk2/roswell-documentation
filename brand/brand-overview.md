@@ -12,7 +12,7 @@ How we use and place our logo is vital to maintaining our brand identity.
 
 {% common %}
 
-Images of our logo can go here
+![](/assets/Roswell Logo 2018_CMYK.png)
 
 {% endmethod %}
 
