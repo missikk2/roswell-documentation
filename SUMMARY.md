@@ -2,11 +2,9 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Roswell Park Brand Documentation](README.md)
 
 ## Methods
 
 * [Defining Methods](methods.md)
-
-
 
