@@ -40,7 +40,8 @@ Other supporting colors may be used in publications, but not to overwhelm our ma
 
 ### Supporting Colors Used in Digital Formats
 
-#### Colors Used on the .org Site
+#### Current Colors Used on the .org Site
+
 
 Green: \#8CC63F
 
@@ -49,6 +50,11 @@ Light Blue: \#BDD3ED
 Lavender: \#B283BA
 
 Orange: \#DBB266
+
+#### Soon to be employed limited palette color scheme:
+
+Green: \#6CC24A
+Teal: \#00b2d0
 
 {% sample lang="print" %}
 
