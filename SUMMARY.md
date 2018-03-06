@@ -18,7 +18,6 @@
 * [Copy Writing Guidelines](brand-voice/copy-writing-guidelines.md)
 * [General Writing Style](brand-voice/titles-and-form-labels.md)
 * [Grammar & Punctuation](brand-voice/grammar-and-punctuation.md)
-* [Common Writing Requirements](https://www.gitbook.com/book/missikk2/roswell-park-design-system-documentation/edit#)
 
 ## Formatting
 
@@ -47,4 +46,6 @@
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
+
+
 
