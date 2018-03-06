@@ -42,4 +42,6 @@ _Passive:_ "In the last two years, 348 transplants were performed."
 _Active:_ "In the last two years, Roswell Park performed 348 transplants."
 When in doubt: Subject/Verb/Object
 
+Focus on the team &amp; human element rather than the study.
+
 {% endmethod %}
