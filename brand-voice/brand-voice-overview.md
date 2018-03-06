@@ -58,3 +58,17 @@ Requirements of copy formats such as blog posts, doctor bios, etc.
 Images
 
 {% endmethod %}
+
+-----
+
+##[Dictionary of Terms](/brand-voice/dictionary-of-terms.md)
+
+{% method %}
+
+Common usages of terms and specific punctuation that goes with them.
+
+{% common %}
+
+Images
+
+{% endmethod %}

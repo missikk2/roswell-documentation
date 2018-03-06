@@ -19,7 +19,7 @@
 * [General Writing Style](brand-voice/titles-and-form-labels.md)
 * [Grammar & Punctuation](brand-voice/grammar-and-punctuation.md)
 * [Common Format Requirements](brand-voice/common-format-requirements.md)
-* Dictionary of Terms
+* [Dictionary of Terms](brand-voice/dictionary-of-terms.md)
 
 ## Formatting
 
@@ -48,6 +48,4 @@
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
-
-
 
