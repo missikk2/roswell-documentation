@@ -1,25 +1,6 @@
-# Copy Writing Guidelines
+# General Content Style &amp; Reading Level
 
 We strive to do something about writing copy.
-
------
-
-{% method %}
-
-## Project Considerations
-
-Before beginning a project, these questions should be answered. They can inform a good direction to take the copy and content.
-
-{% common %}
-
-### Questions to Ask Before Every Project
-
-- What is the desired action, key message or result from this project?
-- Who is the primary target audience? Secondary?
-- What would happen if we didn't do this communication?
-- How does this fit into our mission?
-
-{% endmethod %}
 
 -----
 

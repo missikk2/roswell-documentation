@@ -25,20 +25,21 @@ Before beginning a project, these questions should be answered. They can inform 
 
 {% method %}
 
-## Our Writing Style
+## Writing Tips
 
 The style of our copy is very important to maintaining a consistent voice throughout out website.
 
 {% common %}
 
-### Style Guidelines
+### Tips For Stronger Writing
 
-- Concise and easy to consume
-- Short paragraphs – not content heavy
-- Use visuals and multimedia when possible; when they add value
-- Bulleted lists when possible
-- Compelling headlines, teasers and images whenever possible
-- Inject the human element whenever possible
-- Keep SEO in mind. If unsure, ask Dan
+Avoid beginning a sentence with "There is" or "There are".
+_Instead of:_ "There are studies that show..."
+_Use:_ "Studies show that..."
+
+Use active rather than passive voice.
+_Passive:_ "In the last two years, 348 transplants were performed."
+_Active:_ "In the last two years, Roswell Park performed 348 transplants."
+When in doubt: Subject/Verb/Object
 
 {% endmethod %}
