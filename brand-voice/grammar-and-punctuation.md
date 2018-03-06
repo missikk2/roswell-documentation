@@ -12,11 +12,15 @@ In general, we strive to follow AP style, unless otherwise indicated.
 - On first reference, use all credentials following the doctor's name, set off by commas. Use "Dr." on second reference only. This is important to keep consistent at an institution that employs many MDs and PhDs.
 - For nursing credentials, follow ANA guidelines.
 
+_The best I can find is [this](http://www.nursecredentialing.org/DisplayCredentials-Brochure.pdf) for nursing guidelines. I'll need a link to the actual guidelines._
+
 {% common %}
 
 ### Examples
 
 "Norbert Fleemer, MD, gave the keynote address. Dr. Fleemer is a world-renowned hematologic oncologist."
+
+"An example of how to list a nurse's titles goes here"
 
 {% endmethod %}
 
@@ -26,14 +30,18 @@ In general, we strive to follow AP style, unless otherwise indicated.
 
 ## Titles (Book titles or peoples' titles?)
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+- Use all titles when possible or the most appropriate to context of story. Default to highest title.
+
+_That doesn't make a lot of sense._
+
+- If too many characters to add all titles, try to work in other titles throughout article, or use department.
+- Prefer the clinical title over the academic title in consumer copy. Academic titles should be used in press releases.
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Need some examples to put here
 
 {% endmethod %}
 
@@ -43,14 +51,18 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Names &amp; Designations
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Something here about usage of names and designations.
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+- Use "&amp;" rather than "and" for titles of programs.
+- Blood and Marrow Transplantation (Rather than bone marrow transplant)
+- MANUP (one word)
+- Look Good Feel Better (All capitalized; no ellipsis or commas)
+- Ride for Roswell (Lowercase f, no "the")
+- Tops 5K/10K (Ks are always capitalized)
 
 {% endmethod %}
 
@@ -60,14 +72,13 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Use of Italics
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Use italics to add emphasis within a sentence. Do not use italics to coin a new term (See quotation marks).
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Need an example
 
 {% endmethod %}
 
@@ -77,14 +88,16 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Use of Quotation Marks
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+- Only use for direct quotes or introducing a new term or new use of a term. Do not use to emphasize content.
+- In headlines, use single quotation marks in lieu of double quotation marks.
+- Within direct quotes by the same person that continues with several paragraphs, do not close the quote until they are done speaking. Start each paragraph with new quotation.
+- Generally use _says_ rather than _said_ unless it needs to be clear that the statement was made in the past.
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Find some examples
 
 {% endmethod %}
 
@@ -94,14 +107,17 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Numbers &amp; Phone Numbers
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Phone Numbers: No parentheses around 716. Use hyphens only.
+
+General Numbers: Spell out zero to ten; 11 and up use numerals, unless the number is referring to a measurement (age, percentages, etc.).
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Phone: 716-845-2908
+
+Number example: PSA < 1
 
 {% endmethod %}
 
@@ -111,14 +127,17 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Lists
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+- Use periods for complete sentences.
+- Be consistent with punctuation. If using a period, use it for every list item.
+- For Web: If there are multiple sentences within each bullet, consider using headlines.
+- If using a colon in the intro of a bulleted list, use a period (for full sentences) or a dash after the key word(s).
+- Bold key words.
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Find some examples. Add web example of headlines on a list.
 
 {% endmethod %}
 
@@ -128,14 +147,17 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Em Dashes vs Hyphens
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Do not use a hyphen ( - ) in place of an em dash ( — ).
+Spaces go on each side of dashes.
+Use an em dash when you want to shout something; parenthesis to whisper.
+
+_Not sure on that advice, I generally see em dashes used when writing quick asides?_
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Find some examples.
 
 {% endmethod %}
 
@@ -145,14 +167,13 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Serial or Oxford Comma
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+No Oxford commas. :(
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Lindsay, Jessica and Amy — not Lindsay, Jessica, and Amy
 
 {% endmethod %}
 
@@ -162,14 +183,13 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Percent vs %
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Use the % symbol in all copy.
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Find an example.
 
 {% endmethod %}
 
@@ -179,13 +199,14 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ## Trademarks and Service Marks
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+Use appropriate trade/service mark symbol (for example ®, ℠ or ™) in headlines and in the first reference only in body copy, so long as the communication will correctly duplicate formatting with superscript.
+
+_AP style is to not use TM symbol, only capitalization._
 
 {% common %}
 
 ### Examples
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
+Find an example.
 
 {% endmethod %}
