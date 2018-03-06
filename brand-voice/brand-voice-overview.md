@@ -60,7 +60,7 @@ Images
 
 -----
 
-##[Use of Punctuation](/brand-voice/use-of-punctuation.md)
+##[Grammar &amp; Punctuation](/brand-voice/grammar-and-punctuation.md)
 
 {% method %}
 
