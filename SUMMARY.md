@@ -16,7 +16,7 @@
 
 * [Brand Voice Overview](brand-voice/brand-voice-overview.md)
 * [Copy Writing Guidelines](brand-voice/copy-writing-guidelines.md)
-* General Writing Style
+* [General Writing Style](brand-voice/general-writing-style.md)
 * [Grammar & Punctuation](brand-voice/grammar-and-punctuation.md)
 * [Common Format Requirements](brand-voice/common-format-requirements.md)
 * [Dictionary of Terms](brand-voice/dictionary-of-terms.md)
@@ -48,6 +48,4 @@
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
-
-
 
