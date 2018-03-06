@@ -18,25 +18,12 @@ Images
 
 -----
 
-##[Audience &amp; Tone of Voice](/brand-voice/audience-and-tone-of-voice.md)
-
-{% method %}
-
-Who we write for, and how we write for them.
-
-{% common %}
-
-Images
-
-{% endmethod %}
-
------
-
-##[General Style &amp; Reading Level](/brand-voice/general-style-and-reading-level.md)
+##[General Writing Style](/brand-voice/general-writing-style.md)
 
 {% method %}
 
 General style of copy and the level of technical jargon.
+Who we write for, and how we write for them.
 
 {% common %}
 

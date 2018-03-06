@@ -15,11 +15,10 @@
 ## Brand Voice
 
 * [Brand Voice Overview](brand-voice/brand-voice-overview.md)
-* [Audience & Tone of Voice](brand-voice/audience-and-tone-of-voice.md)
 * [Copy Writing Guidelines](brand-voice/copy-writing-guidelines.md)
-* [General Style & Reading Level](brand-voice/titles-and-form-labels.md)
-* [Brand Terminology](brand-voice/brand-terminology.md)
-* [Grammar & Punctuation](brand-voice/grammar-and-punctuation.md)
+* [General Writing Styl](brand-voice/titles-and-form-labels.md)e
+* [Grammar & Punctuatio](brand-voice/grammar-and-punctuation.md)n
+* [Common Writing Requirements](https://www.gitbook.com/book/missikk2/roswell-park-design-system-documentation/edit#)
 
 ## Formatting
 
@@ -48,4 +47,6 @@
 
 * [Defining Styles in Digital and Print](methods.md)
 * [Sample Style One](sample-style-one.md)
+
+
 

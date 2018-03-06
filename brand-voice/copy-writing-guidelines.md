@@ -25,6 +25,22 @@ Before beginning a project, these questions should be answered. They can inform 
 
 {% method %}
 
+## Point of View
+
+Write content from first and second point of view (POV), using “We” and “Our” to represent the Center, and “you” and “your” for your target audiences. Using first and second POV establishes a personal, human relationship with our audiences and immediately cultivates brand trust. Users care about themselves and what they get out of it, so make the content about them (the patient).
+
+{% common %}
+
+### Examples
+
+Examples
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
 ## Writing Tips
 
 The style of our copy is very important to maintaining a consistent voice throughout out website.
