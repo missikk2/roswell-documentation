@@ -49,15 +49,40 @@ The style of our copy is very important to maintaining a consistent voice throug
 
 ### Tips For Stronger Writing
 
-Avoid beginning a sentence with "There is" or "There are".
+**Avoid beginning a sentence with "There is" or "There are".**
 _Instead of:_ "There are studies that show..."
 _Use:_ "Studies show that..."
 
-Use active rather than passive voice.
+**Use active rather than passive voice.**
 _Passive:_ "In the last two years, 348 transplants were performed."
 _Active:_ "In the last two years, Roswell Park performed 348 transplants."
 When in doubt: Subject/Verb/Object
 
-Focus on the team &amp; human element rather than the study.
+**Focus on the team &amp; human element rather than the study.**
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Web Best Practices
+
+**Headings:**
+Always use the H1, H2, H3 heading hierarchy. Make sure there is only one of each.
+
+_After you have 3 headings, you can jump to H6 for all the rest?_
+
+**Fonts/Typefaces:**
+NEVER change font styles or colors, unless approved by a designer.
+
+**Files:**
+?
+
+{% common %}
+
+### Examples
+
+Show examples of properly formatted blog posts.
 
 {% endmethod %}

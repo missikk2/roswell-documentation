@@ -23,23 +23,30 @@ An example here
 
 {% method %}
 
-## Our Audiences
+## Bios
 
-We write copy tailored to these audiences:
+**Titles:**
+- Always use Professor of Oncology
+- Always use "Chief" as opposed to "Clinical Chief"
+- Always use "Chair" as opposed to "Clinical Chair"
+- Do not include "Member" titles in bios
+- Only list five publications
+
+**Dates:**
+Dates should precede all professional affiliations, memberships, educational credentials, etc. unless faculty member specifically requests to remove it.
+
+**Biography Write-Up:**
+250-word limit; first person perspective.
+
+**Publications:**
+Highlight the top five and then link to pubmed for additional publications.
 
 {% common %}
 
-### Audiences
+### Examples
 
-- Prospective Patients
-- Current Patients
-- Caregivers &amp; Family
-- Healthy Population
-- Community Members
-- Health Professionals
-- Donors
-- Media Professionals
-- Potential Faculty, Staff &amp; Employees
+**Dates:**
+1977 - PhD - Immunology - The Ohio State University, Columbus, OH
 
 {% endmethod %}
 
@@ -47,36 +54,18 @@ We write copy tailored to these audiences:
 
 {% method %}
 
-## Tone of Voice
+## Web Pages &amp; Disease Sites
 
-Tone of voice is less about what you say, and more about how you say it. Content written for our user groups should be inspirational and instill a sense of hope or curiosity. Content will be written as if patient is in consultation with an experienced, caring provider, who is there to answer questions in a frank, but compassionate manner.
-
-Although the primary goal is to drive users to inquire about treatment at Roswell Park, tone should avoid being salesy or pushy. Give the user all the information and space s/he needs to come to their own conclusions
+- Keep tone, voice and messaging consistent.
+- Break up content with bullets, images or video whenever possible.
+- Add contextual links whenever possible.
+- Call out content with highlighted boxes.
 
 {% common %}
 
-### Tone
+### Examples
 
-The tone of voice in our copy may change slightly based on the target audience.
-- Educational
-- Friendly
-- Informative
-- Helpful
-- Warm &amp; Inviting
-- Hopeful
-
-### Content Considerations
-
-Content will convey the following aspects:
-- Informed
-- Credible
-- Reassuring
-- Enduring
-- Encouraging
-- Truthful
-- On Their Level
-
-_Should we add "compassionate" in here somewhere? Also, we've noticed a trend in a lot of highly ranked cancer sites where they focus on the helpful, reassuring, and encouraging tones before going in for the informed, credible, and education tones._
+Some examples go here.
 
 {% endmethod %}
 
@@ -84,13 +73,101 @@ _Should we add "compassionate" in here somewhere? Also, we've noticed a trend in
 
 {% method %}
 
-## Reading Level
-While cancer patients may be educated and seek information, most adults read at the 8th or 9th grade level. Users must be able to both understand the information provided to them, and also understand what options are available to them. It’s difficult to use plain language in place of terminology, but when possible, choose user-friendly terms in place of medical jargon. You may also use jargon, but define terms in plain language. When in doubt, run your content through a readability test (MS Word is the most accessible, with Flesch-Kincaid built into the Spelling and Grammar tool.)
+## Blogs
+
+**Headline:**
+Always capitalized.
+
+**Subheadings:**
+First letter of every word capitalized unless using a quote.
+
+**Author:**
+If an expert doesn't author a post, leave the section blank, unless otherwise specified.
+
+**Approval Process:**
+Always get blogs approved by author/expert before posting.
+
+**Proofing:**
+Sue, Amy, or Kristen proof ALL blogs before publishing.
+
+**Link Content:**
+Always look for opportunities to link content to other blogs, web pages, etc.
+
+**Categories:**
+Always choose a category, you may choose more than one.
+
+**Free Tags:**
+Create free tags based on content. These will be clickable at the bottom of the blog. Think through what people might be searching for before you add a free tag.
+
+**Cancer/Center/Service Tag:**
+If the blog is about a specific disease site, center or service, select that option in the designated field.
+
+**Images:**
+Always include a main image.
+
+**Related Posts:**
+Select three related posts that compliment the blog (preferably the most recent). Do a search for other blogs with similar topics.
+
+**Summary:**
+Always include a summary (located above the body copy). This is what pulls through on the homepage and the CancerTalk feed.
+
+**Workflow:**
+Writer -> Expert Reviewer -> Writer drafts in Drupal with related media -> Proofer -> SEO Review (BEFORE PUBLICATION) -> Publish
 
 {% common %}
 
-### Examples of what not to do
+### Examples
 
 An example here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Videos
+
+- Upload to YouTube exclusively.
+- Choose appropriate channel.
+- Ask Dan for help with tagging properly.
+
+{% common %}
+
+### Examples
+
+An example here
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Social Media Posts
+
+- Write in a first person voice, warm and friendly.
+- Use "Roswell Park" as often as possible; "Roswell" only in rare instances when you run out of characters, or for a hashtag. NEVER use RPCCC.
+- No space before ellipses, one space after ellipses.
+- It is ok to use shortened versions of words and contractions.
+- Keep all content short and concise (less than 3 lines on Facebook desktop).
+- Use numbers (5, not five).
+- Symbols are ok if it keeps content looking clean (&, +, etc).
+- Full sentences not required.
+- Use Dr. rather than credentials unless the credentials are important for the message.
+
+{% common %}
+
+### Examples
+
+**Voice:**
+_Instead of:_ "Roswell Park is excited to announce..."
+_Use:_ "We're excited to announce..."
+
+**Shortened Words:**
+Chemo, Docs, etc.
+
+**Sentences:**
+"Big day at Roswell Park"
 
 {% endmethod %}

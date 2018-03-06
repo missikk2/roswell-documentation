@@ -18,8 +18,10 @@ _The best I can find is [this](http://www.nursecredentialing.org/DisplayCredenti
 
 ### Examples
 
+**Credentials:**
 "Norbert Fleemer, MD, gave the keynote address. Dr. Fleemer is a world-renowned hematologic oncologist."
 
+**Nursing Credentials:**
 "An example of how to list a nurse's titles goes here"
 
 {% endmethod %}
@@ -107,17 +109,21 @@ Find some examples
 
 ## Numbers &amp; Phone Numbers
 
-Phone Numbers: No parentheses around 716. Use hyphens only.
+**Phone Numbers:**
+No parentheses around 716. Use hyphens only.
 
-General Numbers: Spell out zero to ten; 11 and up use numerals, unless the number is referring to a measurement (age, percentages, etc.).
+**General Numbers:**
+Spell out zero to ten; 11 and up use numerals, unless the number is referring to a measurement (age, percentages, etc.).
 
 {% common %}
 
 ### Examples
 
-Phone: 716-845-2908
+**Phone:**
+716-845-2908
 
-Number example: PSA < 1
+**Numbers:**
+PSA < 1
 
 {% endmethod %}
 
