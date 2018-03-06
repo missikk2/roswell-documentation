@@ -33,11 +33,11 @@ Images
 
 -----
 
-##[Brand Terminology](/brand-voice/brand-terminology.md)
+##[Grammar &amp; Punctuation](/brand-voice/grammar-and-punctuation.md)
 
 {% method %}
 
-Common terms and phrases used throughout our content, as well as terms and phrases we try to avoid. Also includes: wording for buttons.
+Use of special characters throughout our content such as &
 
 {% common %}
 
@@ -47,11 +47,11 @@ Images
 
 -----
 
-##[Grammar &amp; Punctuation](/brand-voice/grammar-and-punctuation.md)
+##[Common Format Requirements](/brand-voice/common-format-requirements.md)
 
 {% method %}
 
-Use of special characters throughout our content such as &
+Requirements of copy formats such as blog posts, doctor bios, etc.
 
 {% common %}
 
