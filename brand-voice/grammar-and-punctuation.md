@@ -1,6 +1,6 @@
 # Use of Grammar &amp; Punctuation in Copy
 
-We strive to use a limited color palette to ensure that our brand is as strong as possible.
+In general, we strive to follow AP style, unless otherwise indicated.
 
 -----
 
