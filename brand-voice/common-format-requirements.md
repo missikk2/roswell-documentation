@@ -1,26 +1,21 @@
 # Common Format Requirements
 
-We strive to do something about writing copy.
+Requirements of common formats, print and web.
 
 -----
 
 {% method %}
 
-## Our Writing Style
+## Press Releases
 
-The style of our copy is very important to maintaining a consistent voice throughout out website.
+Something about press releases goes here.
+Be sure to abbreviate URLs for online research for the abstract and/or full study.
 
 {% common %}
 
-### Style Guidelines
+### Examples
 
-- Concise and easy to consume
-- Short paragraphs – not content heavy
-- Use visuals and multimedia when possible; when they add value
-- Bulleted lists when possible
-- Compelling headlines, teasers and images whenever possible
-- Inject the human element whenever possible
-- Keep SEO in mind. If unsure, ask Dan
+An example here
 
 {% endmethod %}
 
