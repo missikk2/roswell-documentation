@@ -1,26 +1,20 @@
 # Dictionary of Terms
 
-We strive to do something about writing copy.
+Something here about the terms and usage.
 
 -----
 
 {% method %}
 
-## Our Writing Style
+## African-American
 
-The style of our copy is very important to maintaining a consistent voice throughout out website.
+Hyphenate in all instances. Other compound descriptors of race/ethnicity are not typically hyphenated – European American(s) or Americans of European descent; Native American(s); Hispanic(s); Latino(s); Latina(s); Caucasian(s). 
 
 {% common %}
 
-### Style Guidelines
+### Example
 
-- Concise and easy to consume
-- Short paragraphs – not content heavy
-- Use visuals and multimedia when possible; when they add value
-- Bulleted lists when possible
-- Compelling headlines, teasers and images whenever possible
-- Inject the human element whenever possible
-- Keep SEO in mind. If unsure, ask Dan
+An example goes here.
 
 {% endmethod %}
 
@@ -28,23 +22,15 @@ The style of our copy is very important to maintaining a consistent voice throug
 
 {% method %}
 
-## Our Audiences
+## Blood and Marrow Transplantation
 
-We write copy tailored to these audiences:
+Use instead of "Bone Marrow Transplant"
 
 {% common %}
 
-### Audiences
+### Example
 
-- Prospective Patients
-- Current Patients
-- Caregivers &amp; Family
-- Healthy Population
-- Community Members
-- Health Professionals
-- Donors
-- Media Professionals
-- Potential Faculty, Staff &amp; Employees
+An example goes here.
 
 {% endmethod %}
 
@@ -52,36 +38,15 @@ We write copy tailored to these audiences:
 
 {% method %}
 
-## Tone of Voice
+## Board Certified/Certification
 
-Tone of voice is less about what you say, and more about how you say it. Content written for our user groups should be inspirational and instill a sense of hope or curiosity. Content will be written as if patient is in consultation with an experienced, caring provider, who is there to answer questions in a frank, but compassionate manner.
-
-Although the primary goal is to drive users to inquire about treatment at Roswell Park, tone should avoid being salesy or pushy. Give the user all the information and space s/he needs to come to their own conclusions
+Hyphenate only when modifies a noun (i.e. board-certified doctor vs. He was board certified)
 
 {% common %}
 
-### Tone
+### Example
 
-The tone of voice in our copy may change slightly based on the target audience.
-- Educational
-- Friendly
-- Informative
-- Helpful
-- Warm &amp; Inviting
-- Hopeful
-
-### Content Considerations
-
-Content will convey the following aspects:
-- Informed
-- Credible
-- Reassuring
-- Enduring
-- Encouraging
-- Truthful
-- On Their Level
-
-_Should we add "compassionate" in here somewhere? Also, we've noticed a trend in a lot of highly ranked cancer sites where they focus on the helpful, reassuring, and encouraging tones before going in for the informed, credible, and education tones._
+An example goes here.
 
 {% endmethod %}
 
@@ -89,13 +54,273 @@ _Should we add "compassionate" in here somewhere? Also, we've noticed a trend in
 
 {% method %}
 
-## Reading Level
-While cancer patients may be educated and seek information, most adults read at the 8th or 9th grade level. Users must be able to both understand the information provided to them, and also understand what options are available to them. It’s difficult to use plain language in place of terminology, but when possible, choose user-friendly terms in place of medical jargon. You may also use jargon, but define terms in plain language. When in doubt, run your content through a readability test (MS Word is the most accessible, with Flesch-Kincaid built into the Spelling and Grammar tool.)
+## Center
+
+Use instead of “clinic”.
 
 {% common %}
 
-### Examples of what not to do
+### Example
 
-An example here.
+_Instead of:_ Breast Clinic
+_Use:_ Breast Oncology Center
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Chemotherapy
+
+Never “chemo” unless a first-person narrative.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Chemotherapy &amp; Infusion Center
+
+Always use the ampersand.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Cosmesis
+
+Refers to the cosmetic effect as in breast surgery or reconstruction. Use “appearance” for lay audience.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## fellows, interns, students, physicians
+
+Lowercase, even when preceded by Roswell Park, as in Roswell Park fellow…
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## High-Risk
+
+Hyphenate only when this modifies another word: “She’s a high-risk patient.” No hyphen necessary in “She is at high risk for breast cancer.”
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## MANUP
+
+All one word.
+
+_Need some clarification on this, I don't know what it is._
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Look Good Feel Better
+
+All capitalized, no ellipsis or comma.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Outcomes
+
+Use for physician audience only; for lay audience, use “survival rates”.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Resection
+
+This means surgery. Use “surgery,” “operation” or “procedure” for lay audience.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Ride for Roswell
+
+Lowercase "f" in "for", no "the" before the title.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## RPCCC
+
+DO NOT USE. Use "Roswell Park".
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Survival Rates
+
+May use “outcomes” for physician or science audience.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Tops 5K/10K
+
+The "k"s are always capitalized.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## _U.S. News &amp; World Report_
+
+This is the title of a periodical and should be italicized.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Username
+
+Written as one word.
+
+{% common %}
+
+### Example
+
+An example goes here.
+
+{% endmethod %}
+
+-----
+
+{% method %}
+
+## Wi-Fi
+
+Include the hyphen and capitalize the W and F.
+
+{% common %}
+
+### Example
+
+An example goes here.
 
 {% endmethod %}

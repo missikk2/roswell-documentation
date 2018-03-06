@@ -2,12 +2,22 @@
 
 In general, we strive to follow AP style, unless otherwise indicated.
 
+##### Trusted Industry Resources
+
+- NCI
+- ACS
+- CDC
+- ACOG
+- NCCN Guidelines
+
 -----
 
 {% method %}
 
 ## Credentials
 
+- Use formal names with credentials.
+- Use formal title if available.
 - Do not use periods in MD or PhD.
 - On first reference, use all credentials following the doctor's name, set off by commas. Use "Dr." on second reference only. This is important to keep consistent at an institution that employs many MDs and PhDs.
 - For nursing credentials, follow ANA guidelines.
@@ -19,6 +29,8 @@ _The best I can find is [this](http://www.nursecredentialing.org/DisplayCredenti
 ### Examples
 
 **Credentials:**
+"Candace S. Johnson, PhD"
+"David Scott, Director of the Office of Diversity and Inclusion"
 "Norbert Fleemer, MD, gave the keynote address. Dr. Fleemer is a world-renowned hematologic oncologist."
 
 **Nursing Credentials:**
@@ -60,11 +72,6 @@ Something here about usage of names and designations.
 ### Examples
 
 - Use "&amp;" rather than "and" for titles of programs.
-- Blood and Marrow Transplantation (Rather than bone marrow transplant)
-- MANUP (one word)
-- Look Good Feel Better (All capitalized; no ellipsis or commas)
-- Ride for Roswell (Lowercase f, no "the")
-- Tops 5K/10K (Ks are always capitalized)
 
 {% endmethod %}
 
