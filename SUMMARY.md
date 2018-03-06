@@ -16,7 +16,6 @@
 
 * [Brand Voice Overview](brand-voice/brand-voice-overview.md)
 * [Copy Writing Guidelines](brand-voice/copy-writing-guidelines.md)
-* [General Writing Style](brand-voice/titles-and-form-labels.md)
 * [Grammar & Punctuation](brand-voice/grammar-and-punctuation.md)
 * [Common Format Requirements](brand-voice/common-format-requirements.md)
 * [Dictionary of Terms](brand-voice/dictionary-of-terms.md)
