@@ -1,4 +1,4 @@
-# Copy Writing Guidelines
+# Audience &amp; Tone of Voice
 
 We strive to do something about writing copy.
 
@@ -30,39 +30,21 @@ We write copy tailored to these audiences:
 
 {% method %}
 
-## Project Considerations
+## Tone of Voice
 
-Before beginning a project, these questions should be answered. They can inform a good direction to take the copy and content.
-
-{% common %}
-
-### Questions to Ask Before Every Project
-
-- What is the desired action, key message or result from this project?
-- Who is the primary target audience? Secondary?
-- What would happen if we didn't do this communication?
-- How does this fit into our mission?
-
-{% endmethod %}
-
------
-
-{% method %}
-
-## Our Writing Style
-
-The style of our copy is very important to maintaining a consistent voice throughout out website.
+The tone of voice in our copy may change slightly based on the target audience.
 
 {% common %}
 
-### Style Guidelines
+### Tone
 
-- Concise and easy to consume
-- Short paragraphs – not content heavy
-- Use visuals and multimedia when possible; when they add value
-- Bulleted lists when possible
-- Compelling headlines, teasers and images whenever possible
-- Inject the human element whenever possible
-- Keep SEO in mind. If unsure, ask Dan
+- Educational
+- Friendly
+- Informative
+- Helpful
+- Warm &amp; Inviting
+- Hopeful
+
+_should we add "compassionate" in here somewhere?_
 
 {% endmethod %}

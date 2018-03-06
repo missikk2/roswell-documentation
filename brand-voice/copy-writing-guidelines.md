@@ -6,30 +6,6 @@ We strive to do something about writing copy.
 
 {% method %}
 
-## Our Audiences
-
-We write copy tailored to these audiences:
-
-{% common %}
-
-### Audiences
-
-- Prospective Patients
-- Current Patients
-- Caregivers &amp; Family
-- Healthy Population
-- Community Members
-- Health Professionals
-- Donors
-- Media Professionals
-- Potential Faculty, Staff &amp; Employees
-
-{% endmethod %}
-
------
-
-{% method %}
-
 ## Project Considerations
 
 Before beginning a project, these questions should be answered. They can inform a good direction to take the copy and content.

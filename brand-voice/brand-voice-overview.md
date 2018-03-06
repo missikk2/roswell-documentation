@@ -18,11 +18,25 @@ Images
 
 -----
 
-##[Titles & Form Labels](/brand-voice/titles-and-form-labels.md)
+##[Audience &amp; Tone of Voice](/brand-voice/audience-and-tone-of-voice.md)
 
 {% method %}
 
-Wording guidelines for headings, titles, and form titles.
+Who we write for, and how we write for them.
+
+{% common %}
+
+Images
+
+{% endmethod %}
+
+-----
+
+##[General Style &amp; Reading Level](/brand-voice/general-style-and-reading-level.md)
+
+{% method %}
+
+General style of copy and the level of technical jargon.
 
 {% common %}
 
