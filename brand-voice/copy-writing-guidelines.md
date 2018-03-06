@@ -1,28 +1,28 @@
-# Color Palette
+# Copy Writing Guidelines
 
-We strive to use a limited color palette to ensure that our brand is as strong as possible.
+We strive to do something about writing copy.
 
 -----
 
 {% method %}
 
-## Main Color
+## Our Audiences
 
-The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications.
+We write copy tailored to these audiences:
 
-{% sample lang="dig" %}
+{% common %}
 
-### Use in Digital Formats
+### Audiences
 
-\#0055B8
-**R** 0 **G** 93 **B** 166
-
-{% sample lang="print" %}
-
-### Use In Print Formats
-
-PMS 2935
-**C** 100 **M** 68 **Y** 4 **K** 0
+- Prospective Patients
+- Current Patients
+- Caregivers &amp; Family
+- Healthy Ppoulation
+- Community Members
+- Health Professionals
+- Donors
+- Media Professionals
+- Potential Faculty, Staff &amp; Employees
 
 {% endmethod %}
 
@@ -30,20 +30,39 @@ PMS 2935
 
 {% method %}
 
-## Secondary Colors
+## Project Considerations
 
-Other supporting colors may be used in publications, but not to overwhelm our main color.
+Before beginning a project, these questions should be answered. They can inform a good direction to take the copy and content.
 
-{% sample lang="dig" %}
+{% common %}
 
-### Supporting Colors Used in Digital Formats
+### Questions to Ask Before Every Project
 
-A short list of colors here with swatches.
+- What is the desired action, key message or result from this project?
+- Who is the primary target audience? Secondary?
+- What would happen if we didn't do this communication?
+- How does this fit into our mission?
 
-{% sample lang="print" %}
+{% endmethod %}
 
-### Use In Print Formats
+-----
 
-A short list of colors here with swatches.
+{% method %}
+
+## Our Writing Style
+
+The style of our copy is very important to maintaining a consistent voice throughout out website.
+
+{% common %}
+
+### Style Guidelines
+
+- Concise and easy to consume
+- Short paragraphs – not content heavy
+- Use visuals and multimedia when possible; when they add value
+- Bulleted lists when possible
+- Compelling headlines, teasers and images whenever possible
+- Inject the human element whenever possible
+- Keep SEO in mind. If unsure, ask Dan
 
 {% endmethod %}
