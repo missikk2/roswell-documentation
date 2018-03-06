@@ -15,6 +15,7 @@
 ## Brand Voice
 
 * [Brand Voice Overview](brand-voice/brand-voice-overview.md)
+* [Audience & Tone of Voice](brand-voice/audience-and-tone-of-voice.md)
 * [Copy Writing Guidelines](brand-voice/copy-writing-guidelines.md)
 * [Titles & Form Labels](brand-voice/titles-and-form-labels.md)
 * [Brand Terminology](brand-voice/brand-terminology.md)
