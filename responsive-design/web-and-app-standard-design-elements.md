@@ -35,9 +35,6 @@ Buttons of different colors are used throughout the site with slight borders to 
 
 {% common %}
 
-{% codeeditor src='../code-snippets/sample-button.html' %}
-{% endcodeeditor %}
-
 ![](/assets/green-button.png)
 
 ![](/assets/blue-button.png)
