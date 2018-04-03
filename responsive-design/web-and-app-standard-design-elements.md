@@ -12,7 +12,7 @@ Consistency in our content is important in conveying the personality of our bran
 
 Cards may contain headings, body text, buttons, and images.
 
-<div class="card card-border">
+<div class="card card--border">
 <div class="card-body">Test of card markup</div>
 </div>
 
