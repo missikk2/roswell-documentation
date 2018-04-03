@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "code-editor" ],
+    "plugins": [ "theme-api", "component" ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
