@@ -12,12 +12,12 @@ How we write our content to provide clarity to viewers.
 
 {% common %}
 
+Images
+
 {% component %}
 <my-element>I'm an webcomponent, rendered in an iframe loading my own script.</my-element>
 <script src="../code-snippets/sample-button.html"></script>
 {% endcomponent %}
-
-Images
 
 {% endmethod %}
 
