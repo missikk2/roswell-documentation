@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "code-editor" ],
+    "plugins": [ "theme-api", "gitbook-plugin-code-editor" ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
