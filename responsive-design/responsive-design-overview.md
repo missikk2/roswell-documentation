@@ -12,6 +12,9 @@ How we write our content to provide clarity to viewers.
 
 {% common %}
 
+{% codeeditor src='../code-snippets/sample-button.html' %}
+{% endcodeeditor %}
+
 Images
 
 {% endmethod %}
