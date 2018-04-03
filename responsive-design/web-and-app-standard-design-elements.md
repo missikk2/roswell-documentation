@@ -8,12 +8,15 @@ Consistency in our content is important in conveying the personality of our bran
 
 ##Cards
 
-"Cards" are used to display elements on pages. Most times they have colored borders on one of their edges.
+A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, and powerful display options.
 
-Cards may contain headings, body text, buttons, and images.
-
-<div class="card card--border">
-<div class="card-body">Test of card markup</div>
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="/assets/olmsted.jpeg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
 </div>
 
 {% common %}
