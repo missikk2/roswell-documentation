@@ -19,10 +19,12 @@ Images
 {% endmethod %}
 
 {% row %}
-{% col "lg-6" %}
-col body
-{% col "lg-6" %}
-col body
+{% col "lg-4" %}
+This is a column
+{% col "lg-4" %}
+This is a column
+{% col "lg-4" %}
+This is a column
 {% endrow %}
 
 -----
