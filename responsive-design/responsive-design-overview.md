@@ -19,6 +19,13 @@ Images
 
 {% endmethod %}
 
+{% row %}
+{% col "lg-6" %}
+col body
+{% col "lg-6" %}
+col body
+{% endrow %}
+
 -----
 
 ##[Web & App Grid](/responsive-design/web-and-app-grid.md)
