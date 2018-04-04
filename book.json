@@ -6,7 +6,7 @@
             "tabs": ["result","js","css", "html"],
             "height": "500",
             "width": "500",
-            "fontColor": "00FF00"
+            "fontColor": "4183c4"
             },
         "theme-api": {
             "languages": [
