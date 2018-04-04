@@ -14,8 +14,7 @@ How we write our content to provide clarity to viewers.
 
 Images
 
-{% codeeditor src='../code-snippets/sample-button.html' %}
-{% endcodeeditor %}
+[source code](https://jsfiddle.net/missikk2/dk01t1qa/)
 
 {% endmethod %}
 
