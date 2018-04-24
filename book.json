@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "bootstrap-grid", "jsfiddle" ],
+    "plugins": [ "theme-api" ],
     "pluginsConfig": {
         "jsfiddle": {
             "type": "script",
