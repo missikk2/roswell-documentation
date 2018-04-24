@@ -14,8 +14,6 @@ How we write our content to provide clarity to viewers.
 
 Images
 
-[source code](https://jsfiddle.net/missikk2/dk01t1qa/)
-
 {% endmethod %}
 
 {% row %}
