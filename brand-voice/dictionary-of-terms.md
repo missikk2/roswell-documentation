@@ -1,155 +1,72 @@
+---
+description: Something here about the terms and usage
+---
+
 # Dictionary of Terms
-
-Something here about the terms and usage.
-
------
-
-{% method %}
 
 ## African-American
 
-Hyphenate in all instances. Other compound descriptors of race/ethnicity are not typically hyphenated – European American(s) or Americans of European descent; Native American(s); Hispanic(s); Latino(s); Latina(s); Caucasian(s). 
+Hyphenate in all instances. Other compound descriptors of race/ethnicity are not typically hyphenated – European American\(s\) or Americans of European descent; Native American\(s\); Hispanic\(s\); Latino\(s\); Latina\(s\); Caucasian\(s\).
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Blood and Marrow Transplantation
 
 Use instead of "Bone Marrow Transplant"
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Board Certified/Certification
 
-Hyphenate only when modifies a noun (i.e. board-certified doctor vs. He was board certified)
+Hyphenate only when modifies a noun \(i.e. board-certified doctor vs. He was board certified\)
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Center
 
-Use instead of “clinic”.
+Use instead of "clinic".
 
-{% common %}
+#### Example
 
-### Example
+Show an example
 
-_Instead of:_ Breast Clinic
-_Use:_ Breast Oncology Center
-
-{% endmethod %}
-
------
-
-{% method %}
-
-## Chemotherapy
-
-Never “chemo” unless a first-person narrative.
-
-{% common %}
-
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
-
-## Chemotherapy &amp; Infusion Center
+## Chemotherapy & Infusion Center
 
 Always use the ampersand.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Cosmesis
 
 Refers to the cosmetic effect as in breast surgery or reconstruction. Use “appearance” for lay audience.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## fellows, interns, students, physicians
 
 Lowercase, even when preceded by Roswell Park, as in Roswell Park fellow…
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## High-Risk
 
 Hyphenate only when this modifies another word: “She’s a high-risk patient.” No hyphen necessary in “She is at high risk for breast cancer.”
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## MANUP
 
@@ -157,170 +74,91 @@ All one word.
 
 _Need some clarification on this, I don't know what it is._
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Look Good Feel Better
 
 All capitalized, no ellipsis or comma.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Outcomes
 
 Use for physician audience only; for lay audience, use “survival rates”.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Resection
 
 This means surgery. Use “surgery,” “operation” or “procedure” for lay audience.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Ride for Roswell
 
 Lowercase "f" in "for", no "the" before the title.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## RPCCC
 
-DO NOT USE. Use "Roswell Park".
+{% hint style="danger" %}
+### DO NOT USE
+{% endhint %}
 
-{% common %}
+Instead, use "Roswell Park".
 
-### Example
+#### Example
 
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Survival Rates
 
 May use “outcomes” for physician or science audience.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Tops 5K/10K
 
 The "k"s are always capitalized.
 
-{% common %}
+#### Example
 
-### Example
+Show an example
 
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
-
-## _U.S. News &amp; World Report_
+## _U.S. News & World Report_
 
 This is the title of a periodical and should be italicized.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Username
 
 Written as one word.
 
-{% common %}
+#### Example
 
-### Example
-
-An example goes here.
-
-{% endmethod %}
-
------
-
-{% method %}
+Show an example
 
 ## Wi-Fi
 
 Include the hyphen and capitalize the W and F.
 
-{% common %}
+#### Example
 
-### Example
+Show an example
 
-An example goes here.
-
-{% endmethod %}

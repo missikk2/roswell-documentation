@@ -1,40 +1,28 @@
-# Roswell Park Brand Documentation
-
-This is a base for brand documentation and consistency for the print and digital representation of the Roswell Park brand.
-
+---
+description: >-
+  This is a base for brand documentation and consistency for the print and
+  digital representation of the Roswell Park brand.
 ---
 
-## [Brand](/brand/brand-overview.md)
+# Roswell Park Design Documentation
 
-Guidelines for brand representation throughout digital and print media.
+## [Brand](brand-overview/)
 
+Guidelines for brand representation throughout print and digital media.
 
+## [Brand Voice](brand-voice/)
 
-## [Brand Voice](/brand-voice/brand-voice-overview.md)
+Guidelines for representing our brand through copy
 
-Guidelines for representing our brand through copy.
-
-
-
-## [Formatting](/formatting/formatting-overview.md)
+## [Formatting](formatting/)
 
 Guidelines for formatting images, compressing images for web, common form field formats, etc.
 
+## [System Design](system-design/)
 
+Guidelines for system design, including responsive design techniques for the modern web.
 
-## [Responsive Design](/responsive-design/responsive-design-overview.md)
+## [Accessibility](accessibility/)
 
-Guidelines for modern web development and mobile-first development.
-
-
-
-## [System Design](/system-design/what-is-system-design.md)
-
-Guidelines for system design.
-
-
-
-## [Accessibility](/accessibility/designing-for-accessibility.md)
-
-Guidelines for responsible design and development to make us accessible to all.
+Guidelines for responsible design and development to ensure we are accessible to all people.
 
