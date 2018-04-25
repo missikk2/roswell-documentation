@@ -23,7 +23,7 @@ Write content from first and second point of view \(POV\), using "We" and "Our" 
 
 The style of our copy is very important to maintaining a consistent voice throughout out website.
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### Tips for Stronger Writing
 
 #### Avoid beginning a sentence with "There is" or "There are".
@@ -33,7 +33,7 @@ Instead of: "There are studies that show..."
 Use: "Studies show that..."
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### Tips for Stronger Writing
 
 #### Use active rather than passive voice.
@@ -43,7 +43,7 @@ Passive: "In the last two years, 348 transplants were performed."
 Active: "In the last two years, Roswell Park performed 348 transplants." When in doubt: Subject/Verb/Object
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### Tips for Stronger Writing
 
 #### Focus on the team & human elements rather than the study.
