@@ -16,9 +16,9 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 ### Roswell Blue
 
-\#0055B8
+**\#**0055B8
 
-RGB \(0, 85, 184\)
+**RGB** \(0, 85, 184\)
 
 Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
 
@@ -28,9 +28,9 @@ Deliberate and intentional, this color is used for primary actions that demand a
 
 ### Frederick Blue
 
-\#00B2D0
+**\#**00B2D0
 
-RGB \(0, 178, 208\)
+**RGB** \(0, 178, 208\)
 
 Subtle and soft spoken this color offers secondary actions as thoughtful information or links to additional materials to support the primary objective.
 
@@ -40,9 +40,9 @@ Subtle and soft spoken this color offers secondary actions as thoughtful informa
 
 ### Parkway Green
 
-\#6CC24A
+**\#**6CC24A
 
-RGB \(108, 194, 74\)
+**RGB** \(108, 194, 74\)
 
 The color of affirmation and success. Most uses for this green mimic the uses of the secondary pallet. Its thematic importance elevates it to the primary palette.
 {% endtab %}
