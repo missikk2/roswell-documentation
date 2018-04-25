@@ -8,6 +8,8 @@ A card is a flexible and extensible content container. It includes options for h
 
 Buttons of different colors are used throughout the site with slight borders to further distinguish them from the site background. All buttons have a 5px rounded corner.
 
+{% embed data="{\"url\":\"https://codepen.io/missikk2/pen/zjBdJa\",\"type\":\"rich\",\"title\":\"Olmsted Buttons\",\"description\":\"...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-us-west-2.amazonaws.com/m.cdpn.io/screenshot-coming-soon-small.png\",\"width\":400,\"height\":225,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"app\",\"url\":\"https://codepen.io/missikk2/embed/preview/zjBdJa?height=300&slug-hash=zjBdJa&default-tabs=html,result&host=https://codepen.io&embed-version=2\",\"html\":\"<iframe src=\\"https://codepen.io/missikk2/embed/preview/zjBdJa?height=300&amp;slug-hash=zjBdJa&amp;default-tabs=html,result&amp;host=https://codepen.io&amp;embed-version=2\\" style=\\"border: 0; width: 100%; height: 300px;\\" allowfullscreen></iframe>\",\"height\":300,\"aspectRatio\":null},\"caption\":\"Button Samples\"}" %}
+
 ## Dashboards
 
 Common design styles in dashboards and i2
