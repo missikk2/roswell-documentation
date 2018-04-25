@@ -45,6 +45,18 @@ Subtle and soft spoken this color offers secondary actions as thoughtful informa
 **C** 100 **M** 68 **Y** 4 **K** 0
 
 Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
+
+
+
+![](../.gitbook/assets/frederick-blue%20%281%29.png)
+
+### Frederick Blue
+
+PMS ????
+
+CMYK ????
+
+Subtle and soft spoken this color offers secondary actions as thoughtful information or links to additional materials to support the primary objective.
 {% endtab %}
 {% endtabs %}
 
