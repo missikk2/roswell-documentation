@@ -94,9 +94,9 @@ Other supporting colors and gradients may be used in publications, but not to ov
 
 ### Sunray Yellow
 
-\#FFAB00
+**\#**FFAB00
 
-RGB \(255, 171, 0\)
+**RGB** \(255, 171, 0\)
 
 Used for alerts. i.e. To draw attention, to make aware.
 
@@ -106,9 +106,9 @@ Used for alerts. i.e. To draw attention, to make aware.
 
 ### Autumn Red
 
-\#FF5630
+**\#**FF5630
 
-RGB \(255, 86, 48\)
+**RGB** \(255, 86, 48\)
 
 Used for warnings. i.e. To emphasize 'no return', an error.
 
@@ -118,9 +118,9 @@ Used for warnings. i.e. To emphasize 'no return', an error.
 
 ### Calvert Purple
 
-\#AF167A
+**\#**AF167A
 
-RGB \(175, 22, 122\)
+**RGB** \(175, 22, 122\)
 
 Used for help. i.e. "Here's how to do this," or "What to be aware of."
 {% endtab %}
@@ -130,9 +130,9 @@ Used for help. i.e. "Here's how to do this," or "What to be aware of."
 
 ### Sunray Yellow
 
-PMS ????
+**PMS** ????
 
-CMYK ????
+**CMYK** ????
 
 Used for alerts. i.e. To draw attention, to make aware.
 
@@ -142,9 +142,9 @@ Used for alerts. i.e. To draw attention, to make aware.
 
 ### Autumn Red
 
-PMS ????
+**PMS** ????
 
-CMYK ????
+**CMYK** ????
 
 Used for warnings. i.e. To emphasize 'no return', an error.
 
@@ -154,9 +154,9 @@ Used for warnings. i.e. To emphasize 'no return', an error.
 
 ### Calvert Purple
 
-PMS ????
+**PMS** ????
 
-CMYK ????
+**CMYK** ????
 
 Used for help. i.e. "Here's how to do this," or "What to be aware of."
 {% endtab %}
