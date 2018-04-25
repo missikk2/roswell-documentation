@@ -12,15 +12,27 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 {% tabs %}
 {% tab title="Digital" %}
+![](../.gitbook/assets/roswell-blue.png)
+
+### Roswell Blue
+
 \#0055B8
 
 **R** 0 **G** 93 **B** 166
+
+Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
 {% endtab %}
 
 {% tab title="Print" %}
+![](../.gitbook/assets/roswell-blue%20%281%29.png)
+
+### Roswell Blue
+
 **PMS** 2935
 
 **C** 100 **M** 68 **Y** 4 **K** 0
+
+Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
 {% endtab %}
 {% endtabs %}
 
