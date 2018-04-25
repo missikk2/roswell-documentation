@@ -18,7 +18,7 @@ The main "Roswell Blue" is used in all publications as the color of our logo and
 
 \#0055B8
 
-**R** 0 **G** 93 **B** 166
+RGB \(0, 85, 184\)
 
 Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
 
@@ -30,9 +30,21 @@ Deliberate and intentional, this color is used for primary actions that demand a
 
 \#00B2D0
 
-**R** 0 **G** 178 **B** 208
+RGB \(0, 178, 208\)
 
 Subtle and soft spoken this color offers secondary actions as thoughtful information or links to additional materials to support the primary objective.
+
+
+
+![](../.gitbook/assets/parkway-green.png)
+
+### Parkway Green
+
+\#6CC24A
+
+RGB \(108, 194, 74\)
+
+The color of affirmation and success. Most uses for this green mimic the uses of the secondary pallet. Its thematic importance elevates it to the primary palette.
 {% endtab %}
 
 {% tab title="Print" %}
@@ -42,7 +54,7 @@ Subtle and soft spoken this color offers secondary actions as thoughtful informa
 
 **PMS** 2935
 
-**C** 100 **M** 68 **Y** 4 **K** 0
+**CMYK** 100, 68, 4, 0
 
 Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
 
@@ -52,11 +64,23 @@ Deliberate and intentional, this color is used for primary actions that demand a
 
 ### Frederick Blue
 
-PMS ????
+**PMS** ????
 
-CMYK ????
+**CMYK** ????
 
 Subtle and soft spoken this color offers secondary actions as thoughtful information or links to additional materials to support the primary objective.
+
+
+
+![](../.gitbook/assets/parkway-green%20%281%29.png)
+
+### Parkway Green
+
+**PMS** ????
+
+**CMYK** ????
+
+The color of affirmation and success. Most uses for this green mimic the uses of the secondary pallet. Its thematic importance elevates it to the primary palette.
 {% endtab %}
 {% endtabs %}
 
