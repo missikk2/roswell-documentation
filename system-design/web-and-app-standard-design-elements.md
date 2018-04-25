@@ -28,3 +28,14 @@ Common design styles in dashboards and i2
 
 The standard usage of icons and glyphs throughout sites and content.
 
+```text
+<i class="fa fa-camera-retro">
+<i class="fa-lg fa-camera-retro">
+<i class="fa-2x fa-camera-retro">
+<i class="fa-3x fa-camera-retro">
+<i class="fa-4x fa-camera-retro">
+<i class="fa-5x fa-camera-retro">
+```
+
+
+
