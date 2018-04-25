@@ -4,6 +4,8 @@
 
 A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, and powerful display options.
 
+{% embed data="{\"url\":\"https://codepen.io/missikk2/pen/vjKRaj\",\"type\":\"rich\",\"title\":\"Olmsted Cards\",\"description\":\"...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-us-west-2.amazonaws.com/i.cdpn.io/1939407.vjKRaj.small.e81d6bf0-ee27-40a3-8ef6-41252c7c9e2e.png\",\"width\":384,\"height\":225,\"aspectRatio\":0.5859375},\"embed\":{\"type\":\"app\",\"url\":\"https://codepen.io/missikk2/embed/preview/vjKRaj?height=300&slug-hash=vjKRaj&default-tabs=html,result&host=https://codepen.io&embed-version=2\",\"html\":\"<iframe src=\\"https://codepen.io/missikk2/embed/preview/vjKRaj?height=300&amp;slug-hash=vjKRaj&amp;default-tabs=html,result&amp;host=https://codepen.io&amp;embed-version=2\\" style=\\"border: 0; width: 100%; height: 300px;\\" allowfullscreen></iframe>\",\"height\":300,\"aspectRatio\":null},\"caption\":\"Samples of the various types of cards we use.\"}" %}
+
 ## Buttons
 
 Buttons of different colors are used throughout the site with slight borders to further distinguish them from the site background. All buttons have a 5px rounded corner.
