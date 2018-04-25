@@ -18,9 +18,13 @@ Buttons of different colors are used throughout the site with slight borders to 
 
 ## Avatars
 
+{% embed data="{\"url\":\"https://codepen.io/missikk2/pen/xjOyZB\",\"type\":\"rich\",\"title\":\"Olmsted Avatars\",\"description\":\"...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-us-west-2.amazonaws.com/i.cdpn.io/1939407.xjOyZB.small.5eb21eb4-4a73-499c-a700-cfd6dec17029.png\",\"width\":384,\"height\":225,\"aspectRatio\":0.5859375},\"embed\":{\"type\":\"app\",\"url\":\"https://codepen.io/missikk2/embed/preview/xjOyZB?height=300&slug-hash=xjOyZB&default-tabs=html,result&host=https://codepen.io&embed-version=2\",\"html\":\"<iframe src=\\"https://codepen.io/missikk2/embed/preview/xjOyZB?height=300&amp;slug-hash=xjOyZB&amp;default-tabs=html,result&amp;host=https://codepen.io&amp;embed-version=2\\" style=\\"border: 0; width: 100%; height: 300px;\\" allowfullscreen></iframe>\",\"height\":300,\"aspectRatio\":null},\"caption\":\"Avatars in two layouts.\"}" %}
+
 ## Icons
 
 The standard usage of icons and glyphs throughout sites and content.
+
+{% embed data="{\"url\":\"https://codepen.io/missikk2/pen/JvKmWQ\",\"type\":\"rich\",\"title\":\"Olmsted Icons\",\"description\":\"...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-us-west-2.amazonaws.com/i.cdpn.io/1939407.JvKmWQ.small.6af10e27-b61c-4d3d-8177-c0d3e6fdba74.png\",\"width\":384,\"height\":225,\"aspectRatio\":0.5859375},\"embed\":{\"type\":\"app\",\"url\":\"https://codepen.io/missikk2/embed/preview/JvKmWQ?height=300&slug-hash=JvKmWQ&default-tabs=html,result&host=https://codepen.io&embed-version=2\",\"html\":\"<iframe src=\\"https://codepen.io/missikk2/embed/preview/JvKmWQ?height=300&amp;slug-hash=JvKmWQ&amp;default-tabs=html,result&amp;host=https://codepen.io&amp;embed-version=2\\" style=\\"border: 0; width: 100%; height: 300px;\\" allowfullscreen></iframe>\",\"height\":300,\"aspectRatio\":null}}" %}
 
 ## Dashboards
 
