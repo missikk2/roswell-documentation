@@ -6,7 +6,7 @@ description: >-
 
 # Color Palette
 
-## Main Color
+## Primary Colors
 
 The main "Roswell Blue" is used in all publications as the color of our logo and the main elements of those publications. Deliberate and intentional, this color is used for primary actions that demand attention or navigate from one page to another. Think of it as a leader.
 
