@@ -24,7 +24,7 @@ Deliberate and intentional, this color is used for primary actions that demand a
 
 
 
-![](../.gitbook/assets/frederick-blue.png)
+![](../.gitbook/assets/frederick-blue%20%281%29.png)
 
 ### Frederick Blue
 
@@ -36,7 +36,7 @@ Subtle and soft spoken this color offers secondary actions as thoughtful informa
 
 
 
-![](../.gitbook/assets/parkway-green.png)
+![](../.gitbook/assets/parkway-green%20%281%29.png)
 
 ### Parkway Green
 
@@ -60,7 +60,7 @@ Deliberate and intentional, this color is used for primary actions that demand a
 
 
 
-![](../.gitbook/assets/frederick-blue%20%281%29.png)
+![](../.gitbook/assets/frederick-blue.png)
 
 ### Frederick Blue
 
@@ -72,7 +72,7 @@ Subtle and soft spoken this color offers secondary actions as thoughtful informa
 
 
 
-![](../.gitbook/assets/parkway-green%20%281%29.png)
+![](../.gitbook/assets/parkway-green.png)
 
 ### Parkway Green
 
@@ -86,5 +86,47 @@ The color of affirmation and success. Most uses for this green mimic the uses of
 
 ## Secondary Colors
 
-Other supporting colors and gradients may be used in publications, but not to overwhelm our main color.
+Other supporting colors and gradients may be used in publications, but not to overwhelm our main colors. These colors are mainly used for alerts, statuses and system level notifications.
+
+{% tabs %}
+{% tab title="Digital" %}
+![](../.gitbook/assets/sunray-yellow.png)
+
+### Sunray Yellow
+
+\#FFAB00
+
+RGB \(255, 171, 0\)
+
+Used for alerts. i.e. To draw attention, to make aware.
+
+
+
+![](../.gitbook/assets/autumn-red.png)
+
+### Autumn Red
+
+\#FF5630
+
+RGB \(255, 86, 48\)
+
+Used for warnings. i.e. To emphasize 'no return', an error.
+
+
+
+![](../.gitbook/assets/calvert-putple.png)
+
+### Calvert Purple
+
+\#AF167A
+
+RGB \(175, 22, 122\)
+
+Used for help. i.e. "Here's how to do this," or "What to be aware of."
+{% endtab %}
+
+{% tab title="Print" %}
+
+{% endtab %}
+{% endtabs %}
 
