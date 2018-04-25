@@ -130,3 +130,29 @@ Used for help. i.e. "Here's how to do this," or "What to be aware of."
 {% endtab %}
 {% endtabs %}
 
+## Gradients
+
+Gradients should used for flourish or to create visual interest. All gradients should create a sense of calm but each should convey its own tone.
+
+![](../.gitbook/assets/hoyt-breeze.png)
+
+### Hoyt Breeze
+
+Frederick Blue -&gt; Parkway Green
+
+
+
+![](../.gitbook/assets/night-mist.png)
+
+### Night Mist
+
+Calvert Purple -&gt; Frederick Blue
+
+
+
+![](../.gitbook/assets/sun-setter.png)
+
+### Sun Setter
+
+Autumn Red -&gt; Sunray Yellow
+
