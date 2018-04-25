@@ -28,9 +28,9 @@ Deliberate and intentional, this color is used for primary actions that demand a
 
 ### Frederick Blue
 
-Color
+\#00B2D0
 
-Color
+**R** 0 **G** 178 **B** 208
 
 Subtle and soft spoken this color offers secondary actions as thoughtful information or links to additional materials to support the primary objective.
 {% endtab %}
