@@ -90,7 +90,7 @@ Other supporting colors and gradients may be used in publications, but not to ov
 
 {% tabs %}
 {% tab title="Digital" %}
-![](../.gitbook/assets/sunray-yellow.png)
+![](../.gitbook/assets/sunray-yellow%20%281%29.png)
 
 ### Sunray Yellow
 
@@ -126,7 +126,39 @@ Used for help. i.e. "Here's how to do this," or "What to be aware of."
 {% endtab %}
 
 {% tab title="Print" %}
+![](../.gitbook/assets/sunray-yellow.png)
 
+### Sunray Yellow
+
+PMS ????
+
+CMYK ????
+
+Used for alerts. i.e. To draw attention, to make aware.
+
+
+
+![](../.gitbook/assets/autumn-red%20%281%29.png)
+
+### Autumn Red
+
+PMS ????
+
+CMYK ????
+
+Used for warnings. i.e. To emphasize 'no return', an error.
+
+
+
+![](../.gitbook/assets/calvert-putple%20%281%29.png)
+
+### Calvert Purple
+
+PMS ????
+
+CMYK ????
+
+Used for help. i.e. "Here's how to do this," or "What to be aware of."
 {% endtab %}
 {% endtabs %}
 
